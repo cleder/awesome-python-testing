@@ -38,6 +38,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Mutation Testing
 - [mutmut](https://github.com/boxed/mutmut) - Mutmut is a mutation testing system for Python, with a strong focus on ease of use.
+- [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - Cosmic Ray is a mutation testing tool for Python 3. It makes small changes to your source code, running your test suite for each one
 
 ## UI Testing
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
