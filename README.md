@@ -16,6 +16,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Code Coverage](#code-coverage)
 - [Static Checks](#static-checks)
 - [Articles](#articles)
+- [Tools](*tools)
 
 ## Testing Frameworks.
 - [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
@@ -75,6 +76,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [faker](https://github.com/joke2k/faker) - A Python package that generates fake data.
 - [mimesis](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
 - [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
+- [genuine-fake)](https://github.com/xeroxzen/genuine-fake) - Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.
 
 ## Design by Contract
 - [icontract](https://github.com/Parquery/icontract) - Design-by-contract in Python3 with informative violation messages and inheritance.
@@ -95,7 +97,10 @@ Collection of awesome Python resources for testing and generating test data.
 - [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - These software engineering rules and testing best practices might help save you time and headaches.
 
 ## Tools
+- [Pynguin](https://github.com/se2p/pynguin) - Pynguin, the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically.
 - [Ponicode](https://www.ponicode.com/) - AI-powered unit testing interface for VS Code. Write, generate, modify and visualise all kinds of unit tests for Javascript, Typescript and Python.
+- [Auger](https://github.com/laffra/auger) -Auger is a project to automatically generate unit tests for Python code.
+
 
 ## Similar Lists
 - [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md#testing) - A curated list of awesome Python frameworks, libraries, software and resources.
