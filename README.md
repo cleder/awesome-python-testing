@@ -78,7 +78,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [faker](https://github.com/joke2k/faker) - A Python package that generates fake data.
 - [mimesis](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
 - [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
-- [genuine-fake)](https://github.com/xeroxzen/genuine-fake) - Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.
+- [genuine-fake](https://github.com/xeroxzen/genuine-fake) - Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.
 
 ## Design by Contract
 - [icontract](https://github.com/Parquery/icontract) - Design-by-contract in Python3 with informative violation messages and inheritance.
