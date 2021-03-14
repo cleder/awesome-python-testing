@@ -5,6 +5,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Test Runners](#test-runners)
 - [Property Based Testing](#property-based-testing)
 - [Mutation Testing](#mutation-testing)
+- [Behavior-driven development](#behavior-driven-development)
 - [UI Testing](#ui-testing)
 - [Rest API Testing](#rest-api-testing)
 - [Load Testing](#load-testing)
@@ -23,13 +24,13 @@ Collection of awesome Python resources for testing and generating test data.
 - [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) - A curated list of awesome pytest resources
 - [hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest.
 - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
+- [doctest](https://docs.python.org/3/library/doctest.html) - (Python standard library) The doctest module searches for pieces of text that look like interactive Python sessions, and then executes those sessions to verify that they work exactly as shown.
 - [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2`.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
 - [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries.
 
 ## Test Runners
 - [green](https://github.com/CleanCut/green) - A clean, colorful test runner.
-- [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
 - [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 - [nox](https://github.com/theacodes/nox) - nox is a command-line tool that automates testing in multiple Python environments, similar to tox. Unlike tox, Nox uses a standard Python file for configuration.
 
@@ -39,6 +40,11 @@ Collection of awesome Python resources for testing and generating test data.
 ## Mutation Testing
 - [mutmut](https://github.com/boxed/mutmut) - Mutmut is a mutation testing system for Python, with a strong focus on ease of use.
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - Cosmic Ray is a mutation testing tool for Python 3. It makes small changes to your source code, running your test suite for each one
+
+## Behavior-driven Development
+- [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
+- [behave](https://github.com/behave/behave) - BDD, Python style.
+- [lettuce](https://github.com/gabrielfalcao/lettuce) - Behavior-driven-development tool for python, inspired by Cucumber for Ruby.
 
 ## UI Testing
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
@@ -105,7 +111,6 @@ Collection of awesome Python resources for testing and generating test data.
 - [Pynguin](https://github.com/se2p/pynguin) - Pynguin, the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically.
 - [Ponicode](https://www.ponicode.com/) - AI-powered unit testing interface for VS Code. Write, generate, modify and visualise all kinds of unit tests for Javascript, Typescript and Python.
 - [Auger](https://github.com/laffra/auger) -Auger is a project to automatically generate unit tests for Python code.
-
 
 ## Similar Lists
 - [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md#testing) - A curated list of awesome Python frameworks, libraries, software and resources.
