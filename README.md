@@ -94,6 +94,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Code Coverage
 - [coverage](https://pypi.org/project/coverage/) - Code coverage measurement.
 - [coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin/) - Conditional coverage based on any rules you define.
+- [diff_cover](https://github.com/Bachmann1234/diff_cover) - Automatically find diff lines that need test coverage.
 
 ## Static Checks
 - [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors.
