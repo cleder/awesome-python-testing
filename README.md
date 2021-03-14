@@ -51,6 +51,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
 - [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
 - [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
+- [helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python is great for web automation. Helium makes it easier to use.
 
 ## Rest API Testing
 - [Schemathesis](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
@@ -60,6 +61,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Load Testing
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+- [dynamic-workload-model](https://github.com/hseera/dynamic-workload-model) - Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.
 
 ## Mock
 - [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
@@ -112,7 +114,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Tools
 - [Pynguin](https://github.com/se2p/pynguin) - Pynguin, the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically.
 - [Ponicode](https://www.ponicode.com/) - AI-powered unit testing interface for VS Code. Write, generate, modify and visualise all kinds of unit tests for Javascript, Typescript and Python.
-- [Auger](https://github.com/laffra/auger) -Auger is a project to automatically generate unit tests for Python code.
+- [Auger](https://github.com/laffra/auger) - Auger is a project to automatically generate unit tests for Python code.
 
 ## Similar Lists
 - [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md#testing) - A curated list of awesome Python frameworks, libraries, software and resources.
