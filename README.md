@@ -104,7 +104,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [pyanalyze](https://github.com/quora/pyanalyze) - A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and some categories of type mismatches.
 - [bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [flake8](https://gitlab.com/pycqa/flake8) - flake8 is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of python code.
-- [awesome-flake8-extensions](https://github.com/cleder/awesome-flake8-extensions) - A curated list of awesome flake8 extensions.
+- [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - A curated list of awesome flake8 extensions.
 - [Typecheckers](https://github.com/ethanhs/python-typecheckers) - A list of Python type checkers.
 - [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
