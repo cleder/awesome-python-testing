@@ -73,6 +73,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [responses](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
 - [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 - [moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
+- [Mockintosh](https://github.com/up9inc/mockintosh) - Mockintosh aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications. You can have tens of mocks at once, inside moderate laptop or single Docker container
 
 ## Assertions
 - [Precisely](https://github.com/mwilliamson/python-precisely) - Precisely allows you to write precise assertions so you only test the behaviour you're really interested in. This makes it clearer to the reader what the expected behaviour is, and makes tests less brittle.
