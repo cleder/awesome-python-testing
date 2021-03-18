@@ -58,6 +58,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [hypothesis-graphql](https://github.com/Stranger6667/hypothesis-graphql) - Hypothesis strategies for GraphQL schemas, queries and data.
 - [tavern](https://github.com/taverntesting/tavern) - Tavern is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
 - [SnapshotTest](https://github.com/syrusakbary/snapshottest) - Snapshot testing is a way to test your APIs without writing actual test cases.
+- [playback](https://github.com/Optibus/playback) - A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).
 
 ## Load Testing
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
@@ -111,6 +112,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Articles
 - [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - These software engineering rules and testing best practices might help save you time and headaches.
+- [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide/) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
 
 ## Tools
 - [Pynguin](https://github.com/se2p/pynguin) - Pynguin, the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically.
