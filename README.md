@@ -49,6 +49,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## UI Testing
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
 - [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is an all-in-one Python framework for automated browser testing. Tests are run with "pytest", and use WebDriver APIs for web-page interaction.
 - [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
 - [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 - [helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python is great for web automation. Helium makes it easier to use.
