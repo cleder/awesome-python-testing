@@ -1,16 +1,9 @@
-name: CI
-
-on:
-  pull_request:
-    branches: [master]
-  push:
-    branches: [master]
-
+name: Lint Awesome List
+on: [push, pull_request]
 jobs:
-  Awesome_Lint:
+  lint:
+    name: Lint
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-      - run: npx awesome-lint
+      - uses: max/awesome-lint@v2

@@ -1,4 +1,4 @@
-# Awesome Python Testing
+# Awesome Python Testing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Collection of awesome Python resources for testing and generating test data.
 
 - [Testing Frameworks](#testing-frameworks)
