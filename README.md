@@ -1,7 +1,7 @@
 # Awesome Python Testing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Collection of awesome Python resources for testing and generating test data.
 
-## Table of Contents
+** Table of Contents **
 - [Testing Frameworks](#testing-frameworks)
 - [Test Runners](#test-runners)
 - [Property Based Testing](#property-based-testing)
