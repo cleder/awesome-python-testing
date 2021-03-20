@@ -1,25 +1,24 @@
 # Awesome Python Testing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Collection of awesome Python resources for testing and generating test data.
 
-Table of Contents
-=================
-    - [Testing Frameworks](#testing-frameworks)
-    - [Test Runners](#test-runners)
-    - [Property Based Testing](#property-based-testing)
-    - [Mutation Testing](#mutation-testing)
-    - [Behavior-driven development](#behavior-driven-development)
-    - [UI Testing](#ui-testing)
-    - [Rest API Testing](#rest-api-testing)
-    - [Load Testing](#load-testing)
-    - [Mock](#mock)
-    - [Assertions](#assertions)
-    - [Object Factories](#object-factories)
-    - [Fake Data](#fake-data)
-    - [Design by Contract](#design-by-contract)
-    - [Code Coverage](#code-coverage)
-    - [Static Checks](#static-checks)
-    - [Articles](#articles)
-    - [Tools](#tools)
+## Table of Contents
+- [Testing Frameworks](#testing-frameworks)
+- [Test Runners](#test-runners)
+- [Property Based Testing](#property-based-testing)
+- [Mutation Testing](#mutation-testing)
+- [Behavior-driven development](#behavior-driven-development)
+- [UI Testing](#ui-testing)
+- [Rest API Testing](#rest-api-testing)
+- [Load Testing](#load-testing)
+- [Mock](#mock)
+- [Assertions](#assertions)
+- [Object Factories](#object-factories)
+- [Fake Data](#fake-data)
+- [Design by Contract](#design-by-contract)
+- [Code Coverage](#code-coverage)
+- [Static Checks](#static-checks)
+- [Articles](#articles)
+- [Tools](#tools)
 
 ## Testing Frameworks
 - [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
