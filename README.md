@@ -63,6 +63,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
 - [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 - [helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python is great for web automation. Helium makes it easier to use.
+- [LuluTest](https://github.com/erik-whiting/LuluTest) - LuluTest is an open source browser automation framework using Python and Selenium. It is relatively lightweight in that it mostly provides wrappers for 3rd party library methods that make browser automation and testing more intuitive.
 
 ## Rest API Testing
 
@@ -76,6 +77,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 - [dynamic-workload-model](https://github.com/hseera/dynamic-workload-model) - Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.
+ - [pynonymizer](https://github.com/jerometwell/pynonymizer) - pynonymizer is a universal tool for translating sensitive production database dumps into anonymized copies. This can help you support GDPR/Data Protection in your organization without compromizing on quality testing data.
 
 ## Mock
 
@@ -142,6 +144,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Pynguin](https://github.com/se2p/pynguin) - Pynguin, the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically.
 - [Ponicode](https://www.ponicode.com/) - AI-powered unit testing interface for VS Code. Write, generate, modify and visualise all kinds of unit tests for JavaScript, TypeScript and Python.
 - [Auger](https://github.com/laffra/auger) - Auger is a project to automatically generate unit tests for Python code.
+- [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - Approvals work by comparing the test results to a golden master.
 
 ## Related
 
