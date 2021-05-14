@@ -146,6 +146,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Ponicode](https://www.ponicode.com/) - AI-powered unit testing interface for VS Code. Write, generate, modify and visualise all kinds of unit tests for JavaScript, TypeScript and Python.
 - [Auger](https://github.com/laffra/auger) - Auger is a project to automatically generate unit tests for Python code.
 - [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - Approvals work by comparing the test results to a golden master.
+- [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codgen will statically analyze your code to create pytest function stubs.
 
 ## Related
 
