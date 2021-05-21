@@ -33,6 +33,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
 - [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries.
 - [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
+- [ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
 
 ## Test Runners
 
