@@ -102,7 +102,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
 - [mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
-- [model_mommy](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
+- [model_bakery](https://github.com/model-bakers/model_bakery) - Model Bakery offers you a smart way to create fixtures for testing in Django. With a simple and powerful API you can create many objects with a single line of code.
 
 ## Fake Data
 
