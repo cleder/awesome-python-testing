@@ -44,6 +44,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Property Based Testing
 
 - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
+- [Atheris](https://github.com/google/atheris) - Atheris is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython.
 
 ## Mutation Testing
 
@@ -148,6 +149,8 @@ Collection of awesome Python resources for testing and generating test data.
 - [Auger](https://github.com/laffra/auger) - Auger is a project to automatically generate unit tests for Python code.
 - [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - Approvals work by comparing the test results to a golden master.
 - [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codgen will statically analyze your code to create pytest function stubs.
+- [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
+
 
 ## Related
 
