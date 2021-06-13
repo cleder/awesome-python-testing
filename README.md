@@ -74,6 +74,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [tavern](https://github.com/taverntesting/tavern) - Tavern is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
 - [SnapshotTest](https://github.com/syrusakbary/snapshottest) - Snapshot testing is a way to test your APIs without writing actual test cases.
 - [playback](https://github.com/Optibus/playback) - A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).
+- [behave-restful](https://github.com/behave-restful/behave-restful) - BDD Framework to Test REST Services and APIs
 
 ## Load Testing
 
@@ -150,7 +151,9 @@ Collection of awesome Python resources for testing and generating test data.
 - [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - Approvals work by comparing the test results to a golden master.
 - [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codgen will statically analyze your code to create pytest function stubs.
 - [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
-
+- [pifpaf](https://github.com/jd/pifpaf) - Pifpaf is a suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
+- [mock_autogen](https://github.com/pksol/mock_autogen) - A tool to auto generate the basic mocks and asserts for faster unit testing using the AAA pattern.
+- [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test. Now, the hypothesis.extra.ghostwriter module can write your test functions for you too!
 
 ## Related
 
