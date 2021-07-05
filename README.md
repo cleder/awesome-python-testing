@@ -94,6 +94,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 - [moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [Mockintosh](https://github.com/up9inc/mockintosh) - Mockintosh aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications. You can have tens of mocks at once, inside moderate laptop or single Docker container.
+- [flexmock](https://github.com/flexmock/flexmock) - Flexmock is a testing library for Python that makes it easy to create mocks, stubs and fakes.
 
 ## Assertions
 
