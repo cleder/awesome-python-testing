@@ -86,6 +86,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
 - [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
+- [time-machine](https://github.com/adamchainz/time-machine)  Travel through time in your tests.
 - [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
 - [httpretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
 - [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
@@ -95,6 +96,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [Mockintosh](https://github.com/up9inc/mockintosh) - Mockintosh aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications. You can have tens of mocks at once, inside moderate laptop or single Docker container.
 - [flexmock](https://github.com/flexmock/flexmock) - Flexmock is a testing library for Python that makes it easy to create mocks, stubs and fakes.
+- [cornell](https://github.com/hiredscorelabs/cornell) - Cornell: record & replay mock server.
 
 ## Assertions
 

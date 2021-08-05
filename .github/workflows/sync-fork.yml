@@ -23,8 +23,8 @@ jobs:
       id: sync
       uses: aormsby/Fork-Sync-With-Upstream-action@master
       with:
-        upstream_repository: cleder/awesome-python-testing
-        upstream_branch: main
+        upstream_sync_repo: cleder/awesome-python-testing
+        upstream_sync_branch: main
         git_pull_args: --unshallow
-        target_branch: main                       # optional
+        target_sync_branch: main                       # optional
         github_token: ${{ secrets.GITHUB_TOKEN }}   # optional, for accessing repos that require authentication
