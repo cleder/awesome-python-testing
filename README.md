@@ -86,7 +86,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
 - [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
-- [time-machine](https://github.com/adamchainz/time-machine)  - Travel through time in your tests.
+- [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
 - [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
 - [httpretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
 - [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
