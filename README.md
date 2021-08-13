@@ -75,6 +75,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [SnapshotTest](https://github.com/syrusakbary/snapshottest) - Snapshot testing is a way to test your APIs without writing actual test cases.
 - [playback](https://github.com/Optibus/playback) - A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).
 - [behave-restful](https://github.com/behave-restful/behave-restful) - BDD Framework to Test REST Services and APIs.
+- [RESTler](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 
 ## Load Testing
 
@@ -145,6 +146,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide/) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
 - [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
 - [Unit testing Python code in Jupyter notebooks](https://www.wrighters.io/unit-testing-python-code-in-jupyter-notebooks/) -  This article covers several options for unit testing Python code in a Jupyter notebook.
+- [async test patterns for Pytest](https://tonybaloney.github.io/posts/async-test-patterns-for-pytest-and-unittest.html) - Learn some handy async examples and patterns for testing in Pytest.
 
 ## Tools
 
