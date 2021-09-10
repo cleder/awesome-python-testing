@@ -21,7 +21,7 @@ jobs:
     # Step 2: run this sync action - specify the upstream repo, upstream branch to sync with, and target sync branch
     - name: Pull upstream changes
       id: sync
-      uses: aormsby/Fork-Sync-With-Upstream-action@master
+      uses: aormsby/Fork-Sync-With-Upstream-action@main
       with:
         upstream_sync_repo: cleder/awesome-python-testing
         upstream_sync_branch: main
