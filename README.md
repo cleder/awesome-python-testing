@@ -11,6 +11,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [UI Testing](#ui-testing)
 - [Rest API Testing](#rest-api-testing)
 - [Load Testing](#load-testing)
+- [Penetration Testing](#penetration-testing)
 - [Mock](#mock)
 - [Assertions](#assertions)
 - [Object Factories](#object-factories)
@@ -34,6 +35,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries.
 - [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
 - [ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
+- [async-asgi-testclient](https://github.com/vinissimus/async-asgi-testclient) - A framework-agnostic library for testing ASGI web applications
 
 ## Test Runners
 
@@ -66,6 +68,8 @@ Collection of awesome Python resources for testing and generating test data.
 - [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 - [helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python is great for web automation. Helium makes it easier to use.
 - [LuluTest](https://github.com/erik-whiting/LuluTest) - LuluTest is an open source browser automation framework using Python and Selenium. It is relatively lightweight in that it mostly provides wrappers for 3rd party library methods that make browser automation and testing more intuitive.
+- [Golem](https://github.com/golemhq/golem) - Golem is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.
+- [selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python (Selenide port).
 
 ## Rest API Testing
 
@@ -76,12 +80,17 @@ Collection of awesome Python resources for testing and generating test data.
 - [playback](https://github.com/Optibus/playback) - A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).
 - [behave-restful](https://github.com/behave-restful/behave-restful) - BDD Framework to Test REST Services and APIs.
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
+- [HttpRunner](https://github.com/httprunner/httprunner) - HttpRunner is a simple & elegant, yet powerful HTTP(S) testing framework.
 
 ## Load Testing
 
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 - [dynamic-workload-model](https://github.com/hseera/dynamic-workload-model) - Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.
 - [pynonymizer](https://github.com/jerometwell/pynonymizer) - Pynonymizer is a universal tool for translating sensitive production database dumps into anonymized copies. This can help you support GDPR/Data Protection in your organization without compromizing on quality testing data.
+
+## Penetration Testing
+
+- [fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 
 ## Mock
 
@@ -98,6 +107,8 @@ Collection of awesome Python resources for testing and generating test data.
 - [Mockintosh](https://github.com/up9inc/mockintosh) - Mockintosh aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications. You can have tens of mocks at once, inside moderate laptop or single Docker container.
 - [flexmock](https://github.com/flexmock/flexmock) - Flexmock is a testing library for Python that makes it easy to create mocks, stubs and fakes.
 - [cornell](https://github.com/hiredscorelabs/cornell) - Cornell: record & replay mock server.
+- [python-mocket](https://github.com/mindflayer/python-mocket) - A socket mock framework - for all kinds of socket animals, web-clients included.
+- [aioresponses](https://github.com/pnuckowski/aioresponses) - Aioresponses is a helper for mock/fake web requests in python aiohttp package.
 
 ## Assertions
 
