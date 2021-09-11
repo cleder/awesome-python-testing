@@ -35,7 +35,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries.
 - [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
 - [ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
-- [async-asgi-testclient](https://github.com/vinissimus/async-asgi-testclient) - A framework-agnostic library for testing ASGI web applications
+- [async-asgi-testclient](https://github.com/vinissimus/async-asgi-testclient) - A framework-agnostic library for testing ASGI web applications.
 
 ## Test Runners
 
@@ -90,7 +90,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Penetration Testing
 
-- [fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
+- [fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework.
 
 ## Mock
 
@@ -107,7 +107,6 @@ Collection of awesome Python resources for testing and generating test data.
 - [Mockintosh](https://github.com/up9inc/mockintosh) - Mockintosh aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications. You can have tens of mocks at once, inside moderate laptop or single Docker container.
 - [flexmock](https://github.com/flexmock/flexmock) - Flexmock is a testing library for Python that makes it easy to create mocks, stubs and fakes.
 - [cornell](https://github.com/hiredscorelabs/cornell) - Cornell: record & replay mock server.
-- [python-mocket](https://github.com/mindflayer/python-mocket) - A socket mock framework - for all kinds of socket animals, web-clients included.
 - [aioresponses](https://github.com/pnuckowski/aioresponses) - Aioresponses is a helper for mock/fake web requests in python aiohttp package.
 
 ## Assertions
