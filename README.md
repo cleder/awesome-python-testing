@@ -169,6 +169,8 @@ Collection of awesome Python resources for testing and generating test data.
 - [pifpaf](https://github.com/jd/pifpaf) - Pifpaf is a suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
 - [mock_autogen](https://github.com/pksol/mock_autogen) - A tool to auto generate the basic mocks and asserts for faster unit testing using the AAA pattern.
 - [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test. Now, the hypothesis.extra.ghostwriter module can write your test functions for you too!
+- [Klara](https://github.com/usagitoneko97/klara) - Klara is a static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system. Klara will take python file as input and generate corresponding test file in pytest format, that attempt to cover all return values.
+- [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
 
 ## Related
 
