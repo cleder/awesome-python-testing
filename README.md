@@ -108,6 +108,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [flexmock](https://github.com/flexmock/flexmock) - Flexmock is a testing library for Python that makes it easy to create mocks, stubs and fakes.
 - [cornell](https://github.com/hiredscorelabs/cornell) - Cornell: record & replay mock server.
 - [aioresponses](https://github.com/pnuckowski/aioresponses) - Aioresponses is a helper for mock/fake web requests in python aiohttp package.
+- [Kesha](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.
 
 ## Assertions
 
