@@ -21,6 +21,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Static Checks](#static-checks)
 - [Articles](#articles)
 - [Tools](#tools)
+- [Speed](#speed)
 - [Related](#related)
 
 ## Testing Frameworks
@@ -70,6 +71,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [LuluTest](https://github.com/erik-whiting/LuluTest) - LuluTest is an open source browser automation framework using Python and Selenium. It is relatively lightweight in that it mostly provides wrappers for 3rd party library methods that make browser automation and testing more intuitive.
 - [Golem](https://github.com/golemhq/golem) - Golem is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.
 - [selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python (Selenide port).
+- [pytest-ui-automatic](https://github.com/moyu6027/pytest-ui-automatic) - Playwright Python tool practice pytest pytest-bdd screen-play page-object allure cucumber-report.
 
 ## Rest API Testing
 
@@ -128,6 +130,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [mimesis](https://github.com/lk-geimfari/mimesis) - A Python library that helps you generate fake data.
 - [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
 - [genuine-fake](https://github.com/xeroxzen/genuine-fake) - Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.
+- [autofaker](https://github.com/christianhelle/autofaker) - A Python library designed to minimize the setup/arrange phase of your unit tests by removing the need to manually write code to create anonymous variables as part of a test cases setup/arrange phase.
 
 ## Design by Contract
 
@@ -167,11 +170,17 @@ Collection of awesome Python resources for testing and generating test data.
 - [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - Approvals work by comparing the test results to a golden master.
 - [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codgen will statically analyze your code to create pytest function stubs.
 - [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
+- [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [pifpaf](https://github.com/jd/pifpaf) - Pifpaf is a suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
 - [mock_autogen](https://github.com/pksol/mock_autogen) - A tool to auto generate the basic mocks and asserts for faster unit testing using the AAA pattern.
 - [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test. Now, the hypothesis.extra.ghostwriter module can write your test functions for you too!
 - [Klara](https://github.com/usagitoneko97/klara) - Klara is a static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system. Klara will take python file as input and generate corresponding test file in pytest format, that attempt to cover all return values.
 - [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
+
+## Speed
+
+- [Partial Testing](https://github.com/man-group/partialtesting) - Run only the tests that are relevant for your changes
+- [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continuous test runner when used with pytest-watch.
 
 ## Related
 
