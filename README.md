@@ -83,6 +83,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [behave-restful](https://github.com/behave-restful/behave-restful) - BDD Framework to Test REST Services and APIs.
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [HttpRunner](https://github.com/httprunner/httprunner) - HttpRunner is a simple & elegant, yet powerful HTTP(S) testing framework.
+- [dredd](https://github.com/apiaryio/dredd) - Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API.
 
 ## Load Testing
 
