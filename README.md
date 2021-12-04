@@ -31,6 +31,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest.
 - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 - [doctest](https://docs.python.org/3/library/doctest.html) - (Python standard library) The doctest module searches for pieces of text that look like interactive Python sessions, and then executes those sessions to verify that they work exactly as shown.
+- [xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
 - [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2`.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
 - [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries.
@@ -117,12 +118,14 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [Precisely](https://github.com/mwilliamson/python-precisely) - Precisely allows you to write precise assertions so you only test the behaviour you're really interested in. This makes it clearer to the reader what the expected behaviour is, and makes tests less brittle.
 - [sure](https://github.com/gabrielfalcao/sure) - An idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js.
+- [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - PyHamcrest is a framework for writing matcher objects, allowing you to declaratively define "match" rules. There are a number of situations where matchers are invaluable, such as UI validation, or data filtering, but it is in the area of writing flexible tests that matchers are most commonly used.
 
 ## Object Factories
 
 - [factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
 - [mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
 - [model_bakery](https://github.com/model-bakers/model_bakery) - Model Bakery offers you a smart way to create fixtures for testing in Django. With a simple and powerful API you can create many objects with a single line of code.
+- [pydantic-factories](https://github.com/Goldziher/pydantic-factories) - This library offers mock data generation for pydantic based models. This means any user defined models as well as third party libraries that use pydantic as a foundation, e.g. SQLModel, FastAPI, Beanie, Ormar and others.
 
 ## Fake Data
 
@@ -162,6 +165,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
 - [Unit testing Python code in Jupyter notebooks](https://www.wrighters.io/unit-testing-python-code-in-jupyter-notebooks/) -  This article covers several options for unit testing Python code in a Jupyter notebook.
 - [async test patterns for Pytest](https://tonybaloney.github.io/posts/async-test-patterns-for-pytest-and-unittest.html) - Learn some handy async examples and patterns for testing in Pytest.
+- [Testing your Python Code with Hypothesis](https://www.inspiredpython.com/course/testing-with-hypothesis/testing-your-python-code-with-hypothesis) - A look at how Hypothesis can help you discover errors in your code.
 
 ## Tools
 
