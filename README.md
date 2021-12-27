@@ -186,6 +186,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [Partial Testing](https://github.com/man-group/partialtesting) - Run only the tests that are relevant for your changes
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continuous test runner when used with pytest-watch.
+- [pytest-incremental](https://github.com/pytest-dev/pytest-incremental) - pytest-incremental analyses your project structure and file modifications between test-runs to modify the order tests are executed and de-select tests. This allows a much faster feedback for interactive test execution.
 
 ## Related
 
