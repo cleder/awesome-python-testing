@@ -73,6 +73,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Golem](https://github.com/golemhq/golem) - Golem is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.
 - [selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python (Selenide port).
 - [pytest-ui-automatic](https://github.com/moyu6027/pytest-ui-automatic) - Playwright Python tool practice pytest pytest-bdd screen-play page-object allure cucumber-report.
+- [flybirds](https://github.com/ctripcorp/flybirds/) - Flybirds is a front-end UI automation test framework based on BDD mode, providing a series of out-of-the-box tools and complete documentation.
 
 ## Rest API Testing
 
@@ -119,6 +120,8 @@ Collection of awesome Python resources for testing and generating test data.
 - [Precisely](https://github.com/mwilliamson/python-precisely) - Precisely allows you to write precise assertions so you only test the behaviour you're really interested in. This makes it clearer to the reader what the expected behaviour is, and makes tests less brittle.
 - [sure](https://github.com/gabrielfalcao/sure) - An idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js.
 - [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - PyHamcrest is a framework for writing matcher objects, allowing you to declaratively define "match" rules. There are a number of situations where matchers are invaluable, such as UI validation, or data filtering, but it is in the area of writing flexible tests that matchers are most commonly used.
+- [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - A python library that (mis)uses the `__eq__` method to make python code (generally unit tests) more declarative and therefore easier to read and write.
+- [pytest_cache_assert](https://github.com/kyleking/pytest_cache_assert) - Cache assertion data to simplify regression testing of complex serializable data
 
 ## Object Factories
 
@@ -157,6 +160,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - A curated list of awesome flake8 extensions.
 - [Typecheckers](https://github.com/ethanhs/python-typecheckers) - A list of Python type checkers.
 - [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
+- [slotscheck](https://github.com/ariebovenberg/slotscheck) - Find mistakes in your `__slots__` definitions.
 
 ## Articles
 
@@ -178,6 +182,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [pifpaf](https://github.com/jd/pifpaf) - Pifpaf is a suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
 - [mock_autogen](https://github.com/pksol/mock_autogen) - A tool to auto generate the basic mocks and asserts for faster unit testing using the AAA pattern.
+- [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
 - [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test. Now, the hypothesis.extra.ghostwriter module can write your test functions for you too!
 - [Klara](https://github.com/usagitoneko97/klara) - Klara is a static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system. Klara will take python file as input and generate corresponding test file in pytest format, that attempt to cover all return values.
 - [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
