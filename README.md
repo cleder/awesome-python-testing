@@ -92,6 +92,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 - [dynamic-workload-model](https://github.com/hseera/dynamic-workload-model) - Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.
 - [pynonymizer](https://github.com/jerometwell/pynonymizer) - Pynonymizer is a universal tool for translating sensitive production database dumps into anonymized copies. This can help you support GDPR/Data Protection in your organization without compromizing on quality testing data.
+- [Grizzly](https://github.com/biometria-se/grizzly/) - Grizzly is a framework to be able to easily define load scenarios, and is mainly built on-top of Locust and Behave.
 
 ## Penetration Testing
 
