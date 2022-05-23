@@ -122,7 +122,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [sure](https://github.com/gabrielfalcao/sure) - An idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js.
 - [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - PyHamcrest is a framework for writing matcher objects, allowing you to declaratively define "match" rules. There are a number of situations where matchers are invaluable, such as UI validation, or data filtering, but it is in the area of writing flexible tests that matchers are most commonly used.
 - [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - A python library that (mis)uses the `__eq__` method to make python code (generally unit tests) more declarative and therefore easier to read and write.
-- [pytest_cache_assert](https://github.com/kyleking/pytest_cache_assert) - Cache assertion data to simplify regression testing of complex serializable data
+- [pytest_cache_assert](https://github.com/kyleking/pytest_cache_assert) - Cache assertion data to simplify regression testing of complex serializable data.
 
 ## Object Factories
 
@@ -190,7 +190,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Speed
 
-- [Partial Testing](https://github.com/man-group/partialtesting) - Run only the tests that are relevant for your changes
+- [Partial Testing](https://github.com/man-group/partialtesting) - Run only the tests that are relevant for your changes.
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continuous test runner when used with pytest-watch.
 - [pytest-incremental](https://github.com/pytest-dev/pytest-incremental) - pytest-incremental analyses your project structure and file modifications between test-runs to modify the order tests are executed and de-select tests. This allows a much faster feedback for interactive test execution.
 
