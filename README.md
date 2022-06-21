@@ -12,7 +12,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Rest API Testing](#rest-api-testing)
 - [Load Testing](#load-testing)
 - [Penetration Testing](#penetration-testing)
-- [Mock](#mock)
+- [Mock and Stub](#mock-and-stub)
 - [Assertions](#assertions)
 - [Object Factories](#object-factories)
 - [Fake Data](#fake-data)
@@ -98,7 +98,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework.
 
-## Mock
+## Mock and Stub
 
 - [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
 - [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
@@ -115,6 +115,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [cornell](https://github.com/hiredscorelabs/cornell) - Cornell: record & replay mock server.
 - [aioresponses](https://github.com/pnuckowski/aioresponses) - Aioresponses is a helper for mock/fake web requests in python aiohttp package.
 - [Kesha](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.
+- [pretend](https://github.com/alex/pretend) - Pretend is a library to make stubbing with Python easier.
 
 ## Assertions
 
