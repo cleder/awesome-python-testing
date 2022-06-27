@@ -164,11 +164,11 @@ Collection of awesome Python resources for testing and generating test data.
 - [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
 - [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test.
 - [Klara](https://github.com/usagitoneko97/klara) - is a static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system.
+- [Pifpaf](https://github.com/jd/pifpaf) - is a suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
 - [Ponicode](https://www.ponicode.com) - AI-powered unit testing interface for VS Code. Write, generate, modify and visualise all kinds of unit tests for JavaScript, TypeScript and Python.
 - [Pynguin](https://github.com/se2p/pynguin) - is a tool that allows developers to generate unit tests automatically.
 - [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codgen will statically analyze your code to create pytest function stubs.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
-- [Pifpaf](https://github.com/jd/pifpaf) - is a suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
 - [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
 - [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
 
