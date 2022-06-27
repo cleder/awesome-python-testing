@@ -23,6 +23,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [UI Testing](#ui-testing)
 - [Resources](#resources)
     - [Articles](#articles)
+    - [Books](#books)
     - [Related](#related)
 
 ## Assertions
@@ -52,7 +53,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Fake Data
 
-- [autofaker](https://github.com/christianhelle/autofaker) - A Python library designed to minimize the setup/arrange phase of your unit tests by removing the need to manually write code to create anonymous variables as part of a test cases setup/arrange phase.
+- [autofaker](https://github.com/christianhelle/autofaker) - designed to minimize the setup/arrange phase of your unit tests by removing the need to manually write code to create anonymous variables as part of a test cases setup/arrange phase.
 - [faker](https://github.com/joke2k/faker) - A Python package that generates fake data.
 - [fake2db](https://github.com/emirozer/fake2db) - Fake database generator.
 - [genuine-fake](https://github.com/xeroxzen/genuine-fake) - Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.
@@ -87,7 +88,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Mutation Testing
 
-- [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - is a mutation testing tool for Python 3. It makes small changes to your source code, running your test suite for each one.
+- [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - makes small changes to your source code, running your test suite for each one.
 - [Mutmut](https://github.com/boxed/mutmut) - is a mutation testing system for Python, with a strong focus on ease of use.
 
 ## Object Factories
@@ -190,11 +191,23 @@ Collection of awesome Python resources for testing and generating test data.
 ### Articles
 
 - [async test patterns for Pytest](https://tonybaloney.github.io/posts/async-test-patterns-for-pytest-and-unittest.html) - Learn some handy async examples and patterns for testing in Pytest.
-- [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide/) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
+- [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
 - [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
 - [Testing your Python Code with Hypothesis](https://www.inspiredpython.com/course/testing-with-hypothesis/testing-your-python-code-with-hypothesis) - A look at how Hypothesis can help you discover errors in your code.
-- [Unit testing Python code in Jupyter notebooks](https://www.wrighters.io/unit-testing-python-code-in-jupyter-notebooks/) -  This article covers several options for unit testing Python code in a Jupyter notebook.
+- [Unit testing Python code in Jupyter notebooks](https://www.wrighters.io/unit-testing-python-code-in-jupyter-notebooks) -  This article covers several options for unit testing Python code in a Jupyter notebook.
 - [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - These software engineering rules and testing best practices might help save you time and headaches.
+
+### Books
+
+- [Architecture Patterns with Python](https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197) (O'Reilly)
+- [Crafting Test-Driven Software with Python](https://www.packtpub.com/product/crafting-test-driven-software-with-python/9781838642655) (Packt)
+- [pytest Quick Start Guide](https://www.packtpub.com/product/pytest-quick-start-guide/9781789347562) (Packt)
+- [Python Testing with pytest](https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition) (Pragmatic Bookshelf)
+- [Python Testing with Selenium](https://link.springer.com/book/10.1007/978-1-4842-6249-8) (Apress)
+- [Python Unit Test Automation](https://www.oreilly.com/library/view/python-unit-test/9781484226766) (O'Reilly)
+- [Testing In Python](https://www.amazon.com/Testing-Python-Robust-Professionals/dp/B0857CFM17) (Independently published)
+- [Testing Python](https://www.amazon.com/Testing-Python-Applying-Unit-Acceptance/dp/1118901223) (Wiley)
+- [Test-Driven Development with Python](https://www.oreilly.com/library/view/test-driven-development-with/9781491958698) (O'Reilly)
 
 ### Related
 
