@@ -3,199 +3,213 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Contents
 
-- [Testing Frameworks](#testing-frameworks)
-- [Test Runners](#test-runners)
-- [Property Based Testing](#property-based-testing)
-- [Mutation Testing](#mutation-testing)
-- [Behavior-driven Development](#behavior-driven-development)
-- [UI Testing](#ui-testing)
-- [Rest API Testing](#rest-api-testing)
-- [Load Testing](#load-testing)
-- [Penetration Testing](#penetration-testing)
-- [Mock and Stub](#mock-and-stub)
 - [Assertions](#assertions)
-- [Object Factories](#object-factories)
-- [Fake Data](#fake-data)
-- [Design by Contract](#design-by-contract)
+- [Behavior-driven Development](#behavior-driven-development)
 - [Code Coverage](#code-coverage)
-- [Static Checks](#static-checks)
-- [Articles](#articles)
-- [Tools](#tools)
+- [Design by Contract](#design-by-contract)
+- [Fake Data](#fake-data)
+- [Load Testing](#load-testing)
+- [Mock and Stub](#mock-and-stub)
+- [Mutation Testing](#mutation-testing)
+- [Object Factories](#object-factories)
+- [Penetration Testing](#penetration-testing)
+- [Property Based Testing](#property-based-testing)
+- [Rest API Testing](#rest-api-testing)
 - [Speed](#speed)
-- [Related](#related)
-
-## Testing Frameworks
-
-- [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
-- [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) - A curated list of awesome pytest resources.
-- [hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest.
-- [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
-- [doctest](https://docs.python.org/3/library/doctest.html) - (Python standard library) The doctest module searches for pieces of text that look like interactive Python sessions, and then executes those sessions to verify that they work exactly as shown.
-- [xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
-- [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2`.
-- [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
-- [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries.
-- [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
-- [ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
-- [async-asgi-testclient](https://github.com/vinissimus/async-asgi-testclient) - A framework-agnostic library for testing ASGI web applications.
-
-## Test Runners
-
-- [green](https://github.com/CleanCut/green) - A clean, colorful test runner.
-- [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions.
-- [nox](https://github.com/theacodes/nox) - Nox is a command-line tool that automates testing in multiple Python environments, similar to tox. Unlike tox, Nox uses a standard Python file for configuration.
-
-## Property Based Testing
-
-- [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
-- [Atheris](https://github.com/google/atheris) - Atheris is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython.
-
-## Mutation Testing
-
-- [mutmut](https://github.com/boxed/mutmut) - Mutmut is a mutation testing system for Python, with a strong focus on ease of use.
-- [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - Cosmic Ray is a mutation testing tool for Python 3. It makes small changes to your source code, running your test suite for each one.
-
-## Behavior-driven Development
-
-- [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
-- [behave](https://github.com/behave/behave) - BDD, Python style.
-- [lettuce](https://github.com/gabrielfalcao/lettuce) - Behavior-driven-development tool for python, inspired by Cucumber for Ruby.
-
-## UI Testing
-
-- [PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
-- [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
-- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is an all-in-one Python framework for automated browser testing. Tests are run with "pytest", and use WebDriver APIs for web-page interaction.
-- [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
-- [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
-- [helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python is great for web automation. Helium makes it easier to use.
-- [LuluTest](https://github.com/erik-whiting/LuluTest) - LuluTest is an open source browser automation framework using Python and Selenium. It is relatively lightweight in that it mostly provides wrappers for 3rd party library methods that make browser automation and testing more intuitive.
-- [Golem](https://github.com/golemhq/golem) - Golem is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.
-- [selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python (Selenide port).
-- [pytest-ui-automatic](https://github.com/moyu6027/pytest-ui-automatic) - Playwright Python tool practice pytest pytest-bdd screen-play page-object allure cucumber-report.
-- [flybirds](https://github.com/ctripcorp/flybirds/) - Flybirds is a front-end UI automation test framework based on BDD mode, providing a series of out-of-the-box tools and complete documentation.
-
-## Rest API Testing
-
-- [Schemathesis](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
-- [hypothesis-graphql](https://github.com/Stranger6667/hypothesis-graphql) - Hypothesis strategies for GraphQL schemas, queries and data.
-- [tavern](https://github.com/taverntesting/tavern) - Tavern is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
-- [SnapshotTest](https://github.com/syrusakbary/snapshottest) - Snapshot testing is a way to test your APIs without writing actual test cases.
-- [playback](https://github.com/Optibus/playback) - A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).
-- [behave-restful](https://github.com/behave-restful/behave-restful) - BDD Framework to Test REST Services and APIs.
-- [RESTler](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
-- [HttpRunner](https://github.com/httprunner/httprunner) - HttpRunner is a simple & elegant, yet powerful HTTP(S) testing framework.
-- [dredd](https://github.com/apiaryio/dredd) - Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API.
-
-## Load Testing
-
-- [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-- [dynamic-workload-model](https://github.com/hseera/dynamic-workload-model) - Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.
-- [pynonymizer](https://github.com/jerometwell/pynonymizer) - Pynonymizer is a universal tool for translating sensitive production database dumps into anonymized copies. This can help you support GDPR/Data Protection in your organization without compromizing on quality testing data.
-- [Grizzly](https://github.com/biometria-se/grizzly/) - Grizzly is a framework to be able to easily define load scenarios, and is mainly built on-top of Locust and Behave.
-
-## Penetration Testing
-
-- [fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework.
-
-## Mock and Stub
-
-- [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
-- [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
-- [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
-- [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
-- [httpretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
-- [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
-- [mocket](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
-- [responses](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
-- [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
-- [moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
-- [Mockintosh](https://github.com/up9inc/mockintosh) - Mockintosh aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications. You can have tens of mocks at once, inside moderate laptop or single Docker container.
-- [flexmock](https://github.com/flexmock/flexmock) - Flexmock is a testing library for Python that makes it easy to create mocks, stubs and fakes.
-- [cornell](https://github.com/hiredscorelabs/cornell) - Cornell: record & replay mock server.
-- [aioresponses](https://github.com/pnuckowski/aioresponses) - Aioresponses is a helper for mock/fake web requests in python aiohttp package.
-- [Kesha](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.
-- [pretend](https://github.com/alex/pretend) - Pretend is a library to make stubbing with Python easier.
+- [Static Checks](#static-checks)
+- [Test Runners](#test-runners)
+- [Testing Frameworks](#testing-frameworks)
+- [Tools](#tools)
+- [UI Testing](#ui-testing)
+- [Resources](#resources)
+    - [Articles](#articles)
+    - [Books](#books)
+    - [Related](#related)
 
 ## Assertions
 
-- [Precisely](https://github.com/mwilliamson/python-precisely) - Precisely allows you to write precise assertions so you only test the behaviour you're really interested in. This makes it clearer to the reader what the expected behaviour is, and makes tests less brittle.
-- [sure](https://github.com/gabrielfalcao/sure) - An idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js.
-- [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - PyHamcrest is a framework for writing matcher objects, allowing you to declaratively define "match" rules. There are a number of situations where matchers are invaluable, such as UI validation, or data filtering, but it is in the area of writing flexible tests that matchers are most commonly used.
 - [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - A python library that (mis)uses the `__eq__` method to make python code (generally unit tests) more declarative and therefore easier to read and write.
+- [Precisely](https://github.com/mwilliamson/python-precisely) - allows you to write precise assertions so you only test the behaviour you're really interested in.
+- [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - is a framework for writing matcher objects, allowing you to declaratively define "match" rules.
 - [pytest_cache_assert](https://github.com/kyleking/pytest_cache_assert) - Cache assertion data to simplify regression testing of complex serializable data.
+- [sure](https://github.com/gabrielfalcao/sure) - An idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js.
+
+## Behavior-driven Development
+
+- [behave](https://github.com/behave/behave) - is behavior-driven development, Python style.
+- [lettuce](https://github.com/gabrielfalcao/lettuce) - Behavior-driven-development tool for python, inspired by Cucumber for Ruby.
+- [mamba](http://nestorsalceda.github.io/mamba) - The definitive testing tool for Python. Born under the banner of BDD.
+
+## Code Coverage
+
+- [coverage](https://pypi.org/project/coverage) - Code coverage measurement.
+- [coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) - Conditional coverage based on any rules you define.
+- [diff_cover](https://github.com/Bachmann1234/diff_cover) - Automatically find diff lines that need test coverage.
+
+## Design by Contract
+
+- [deal](https://github.com/life4/deal) - Design by contract for Python with static checker and test generation.
+- [icontract](https://github.com/Parquery/icontract) - Design-by-contract in Python3 with informative violation messages and inheritance.
+
+## Fake Data
+
+- [autofaker](https://github.com/christianhelle/autofaker) - designed to minimize the setup/arrange phase of your unit tests by removing the need to manually write code to create anonymous variables as part of a test cases setup/arrange phase.
+- [faker](https://github.com/joke2k/faker) - A Python package that generates fake data.
+- [fake2db](https://github.com/emirozer/fake2db) - Fake database generator.
+- [genuine-fake](https://github.com/xeroxzen/genuine-fake) - Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.
+- [mimesis](https://github.com/lk-geimfari/mimesis) - A Python library that helps you generate fake data.
+- [radar](https://pypi.org/project/radar) - Generate random datetime / time.
+
+## Load Testing
+
+- [Dynamic Workload Model](https://github.com/hseera/dynamic-workload-model) - Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.
+- [Grizzly](https://github.com/biometria-se/grizzly) - is a framework to be able to easily define load scenarios, and is mainly built on-top of Locust and Behave.
+- [Locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+- [pynonymizer](https://github.com/jerometwell/pynonymizer) - is a universal tool for translating sensitive production database dumps into anonymized copies. 
+
+## Mock and Stub
+
+- [Aioresponses](https://github.com/pnuckowski/aioresponses) - is a helper for mock/fake web requests in python aiohttp package.
+- [Cornell](https://github.com/hiredscorelabs/cornell) - record & replay mock server.
+- [doublex](https://pypi.org/project/doublex) - Powerful test doubles framework for Python.
+- [Flexmock](https://github.com/flexmock/flexmock) - is a testing library for Python that makes it easy to create mocks, stubs and fakes.
+- [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
+- [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+- [httpretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
+- [Kesha](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks.
+- [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
+- [mocket](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
+- [Mockintosh](https://github.com/up9inc/mockintosh) - aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications.
+- [moto](https://github.com/spulec/moto) - allows you to easily mock out tests based on AWS infrastructure.
+- [Pretend](https://github.com/alex/pretend) - is a library to make stubbing with Python easier.
+- [responses](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
+- [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
+- [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
+
+## Mutation Testing
+
+- [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - makes small changes to your source code, running your test suite for each one.
+- [Mutmut](https://github.com/boxed/mutmut) - is a mutation testing system for Python, with a strong focus on ease of use.
 
 ## Object Factories
 
 - [factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
 - [mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
-- [model_bakery](https://github.com/model-bakers/model_bakery) - Model Bakery offers you a smart way to create fixtures for testing in Django. With a simple and powerful API you can create many objects with a single line of code.
-- [pydantic-factories](https://github.com/Goldziher/pydantic-factories) - This library offers mock data generation for pydantic based models. This means any user defined models as well as third party libraries that use pydantic as a foundation, e.g. SQLModel, FastAPI, Beanie, Ormar and others.
+- [Model Bakery](https://github.com/model-bakers/model_bakery) - offers you a smart way to create fixtures for testing in Django.
+- [pydantic-factories](https://github.com/Goldziher/pydantic-factories) - offers mock data generation for pydantic based models.
 
-## Fake Data
+## Penetration Testing
 
-- [fake2db](https://github.com/emirozer/fake2db) - Fake database generator.
-- [faker](https://github.com/joke2k/faker) - A Python package that generates fake data.
-- [mimesis](https://github.com/lk-geimfari/mimesis) - A Python library that helps you generate fake data.
-- [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
-- [genuine-fake](https://github.com/xeroxzen/genuine-fake) - Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.
-- [autofaker](https://github.com/christianhelle/autofaker) - A Python library designed to minimize the setup/arrange phase of your unit tests by removing the need to manually write code to create anonymous variables as part of a test cases setup/arrange phase.
+- [fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework.
 
-## Design by Contract
+## Property Based Testing
 
-- [icontract](https://github.com/Parquery/icontract) - Design-by-contract in Python3 with informative violation messages and inheritance.
-- [deal](https://github.com/life4/deal) - Design by contract for Python with static checker and test generation.
+- [Atheris](https://github.com/google/atheris) - is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython.
+- [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - is an advanced Quickcheck style property based testing library.
 
-## Code Coverage
+## Rest API Testing
 
-- [coverage](https://pypi.org/project/coverage/) - Code coverage measurement.
-- [coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin/) - Conditional coverage based on any rules you define.
-- [diff_cover](https://github.com/Bachmann1234/diff_cover) - Automatically find diff lines that need test coverage.
-
-## Static Checks
-
-- [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors.
-- [pylint](https://github.com/PyCQA/pylint) - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
-- [pyanalyze](https://github.com/quora/pyanalyze) - A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and some categories of type mismatches.
-- [bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
-- [flake8](https://gitlab.com/pycqa/flake8) - flake8 is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of python code.
-- [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - A curated list of awesome flake8 extensions.
-- [Typecheckers](https://github.com/ethanhs/python-typecheckers) - A list of Python type checkers.
-- [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
-- [slotscheck](https://github.com/ariebovenberg/slotscheck) - Find mistakes in your `__slots__` definitions.
-
-## Articles
-
-- [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - These software engineering rules and testing best practices might help save you time and headaches.
-- [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide/) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
-- [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
-- [Unit testing Python code in Jupyter notebooks](https://www.wrighters.io/unit-testing-python-code-in-jupyter-notebooks/) -  This article covers several options for unit testing Python code in a Jupyter notebook.
-- [async test patterns for Pytest](https://tonybaloney.github.io/posts/async-test-patterns-for-pytest-and-unittest.html) - Learn some handy async examples and patterns for testing in Pytest.
-- [Testing your Python Code with Hypothesis](https://www.inspiredpython.com/course/testing-with-hypothesis/testing-your-python-code-with-hypothesis) - A look at how Hypothesis can help you discover errors in your code.
-
-## Tools
-
-- [Pynguin](https://github.com/se2p/pynguin) - Pynguin, the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically.
-- [Ponicode](https://www.ponicode.com/) - AI-powered unit testing interface for VS Code. Write, generate, modify and visualise all kinds of unit tests for JavaScript, TypeScript and Python.
-- [Auger](https://github.com/laffra/auger) - Auger is a project to automatically generate unit tests for Python code.
-- [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - Approvals work by comparing the test results to a golden master.
-- [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codgen will statically analyze your code to create pytest function stubs.
-- [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
-- [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
-- [pifpaf](https://github.com/jd/pifpaf) - Pifpaf is a suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
-- [mock_autogen](https://github.com/pksol/mock_autogen) - A tool to auto generate the basic mocks and asserts for faster unit testing using the AAA pattern.
-- [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
-- [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test. Now, the hypothesis.extra.ghostwriter module can write your test functions for you too!
-- [Klara](https://github.com/usagitoneko97/klara) - Klara is a static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system. Klara will take python file as input and generate corresponding test file in pytest format, that attempt to cover all return values.
-- [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
+- [behave-restful](https://github.com/behave-restful/behave-restful) - BDD Framework to Test REST Services and APIs.
+- [Dredd](https://github.com/apiaryio/dredd) - is a language-agnostic command-line tool for validating API description document against backend implementation of the API.
+- [HttpRunner](https://github.com/httprunner/httprunner) - is a simple & elegant, yet powerful HTTP(S) testing framework.
+- [hypothesis-graphql](https://github.com/Stranger6667/hypothesis-graphql) - Hypothesis strategies for GraphQL schemas, queries and data.
+- [Schemathesis](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
+- [SnapshotTest](https://github.com/syrusakbary/snapshottest) - is a way to test your APIs without writing actual test cases.
+- [playback](https://github.com/Optibus/playback) - A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).
+- [RESTler](https://github.com/microsoft/restler-fuzzer) - is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
+- [Tavern](https://github.com/taverntesting/tavern) - is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
 
 ## Speed
 
 - [Partial Testing](https://github.com/man-group/partialtesting) - Run only the tests that are relevant for your changes.
+- [Pytest-incremental](https://github.com/pytest-dev/pytest-incremental) - analyses your project structure and file modifications between test-runs to modify the order tests are executed and de-select tests.
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continuous test runner when used with pytest-watch.
-- [pytest-incremental](https://github.com/pytest-dev/pytest-incremental) - Pytest-incremental analyses your project structure and file modifications between test-runs to modify the order tests are executed and de-select tests. This allows a much faster feedback for interactive test execution.
 
-## Related
+## Static Checks
+
+- [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - A curated list of awesome flake8 extensions.
+- [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
+- [Bandit](https://github.com/PyCQA/bandit) - is a tool designed to find common security issues in Python code.
+- [flake8](https://gitlab.com/pycqa/flake8) - is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of python code.
+- [pyanalyze](https://github.com/quora/pyanalyze) - A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and some categories of type mismatches.
+- [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors.
+- [Pylint](https://github.com/PyCQA/pylint) - is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+- [slotscheck](https://github.com/ariebovenberg/slotscheck) - Find mistakes in your `__slots__` definitions.
+- [Typecheckers](https://github.com/ethanhs/python-typecheckers) - A list of Python type checkers.
+
+## Test Runners
+
+- [green](https://github.com/CleanCut/green) - A clean, colorful test runner.
+- [Nox](https://github.com/theacodes/nox) - is a command-line tool that automates testing in multiple Python environments, similar to tox. Unlike tox, Nox uses a standard Python file for configuration.
+- [tox](https://tox.readthedocs.io/en/latest) - Auto builds and tests distributions in multiple Python versions.
+
+## Testing Frameworks
+
+- [async-asgi-testclient](https://github.com/vinissimus/async-asgi-testclient) - A framework-agnostic library for testing ASGI web applications.
+- [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) - A curated list of awesome pytest resources.
+- [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries.
+- [doctest](https://docs.python.org/3/library/doctest.html) - (Python standard library) The doctest module searches for pieces of text that look like interactive Python sessions, and then executes those sessions to verify that they work exactly as shown.
+- [hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest.
+- [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2`.
+- [pytest](https://docs.pytest.org/en/latest) - A mature full-featured Python testing tool.
+- [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
+- [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
+- [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
+- [Ward](https://github.com/darrenburns/ward) - is a modern test framework for Python with a focus on productivity and readability.
+- [xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
+
+## Tools
+
+- [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - work by comparing the test results to a golden master.
+- [Auger](https://github.com/laffra/auger) - is a project to automatically generate unit tests for Python code.
+- [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
+- [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test.
+- [Klara](https://github.com/usagitoneko97/klara) - is a static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system.
+- [Pifpaf](https://github.com/jd/pifpaf) - is a suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
+- [Ponicode](https://www.ponicode.com) - AI-powered unit testing interface for VS Code. Write, generate, modify and visualise all kinds of unit tests for JavaScript, TypeScript and Python.
+- [Pynguin](https://github.com/se2p/pynguin) - is a tool that allows developers to generate unit tests automatically.
+- [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codgen will statically analyze your code to create pytest function stubs.
+- [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
+- [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
+- [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
+
+## UI Testing
+
+- [Flybirds](https://github.com/ctripcorp/flybirds) - is a front-end UI automation test framework based on BDD mode, providing a series of out-of-the-box tools and complete documentation.
+- [Golem](https://github.com/golemhq/golem) - is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.
+- [helium](https://github.com/mherrmann/selenium-python-helium) - is great for web automation. Helium makes it easier to use.
+- [LuluTest](https://github.com/erik-whiting/LuluTest) - is an open source browser automation framework using Python and Selenium.
+- [PyAutoGUI](https://github.com/asweigart/pyautogui) - is a cross-platform GUI automation Python module for human beings.
+- [pytest-ui-automatic](https://github.com/moyu6027/pytest-ui-automatic) - Playwright Python tool practice pytest pytest-bdd screen-play page-object allure cucumber-report.
+- [selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python (Selenide port).
+- [Selenium](https://pypi.org/project/selenium) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - is an all-in-one Python framework for automated browser testing. Tests are run with "pytest", and use WebDriver APIs for web-page interaction.
+- [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
+- [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
+
+## Resources
+### Articles
+
+- [async test patterns for Pytest](https://tonybaloney.github.io/posts/async-test-patterns-for-pytest-and-unittest.html) - Learn some handy async examples and patterns for testing in Pytest.
+- [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
+- [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
+- [Testing your Python Code with Hypothesis](https://www.inspiredpython.com/course/testing-with-hypothesis/testing-your-python-code-with-hypothesis) - A look at how Hypothesis can help you discover errors in your code.
+- [Unit testing Python code in Jupyter notebooks](https://www.wrighters.io/unit-testing-python-code-in-jupyter-notebooks) -  This article covers several options for unit testing Python code in a Jupyter notebook.
+- [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - These software engineering rules and testing best practices might help save you time and headaches.
+
+### Books
+
+- [Architecture Patterns with Python](https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197) (O'Reilly)
+- [Crafting Test-Driven Software with Python](https://www.packtpub.com/product/crafting-test-driven-software-with-python/9781838642655) (Packt)
+- [pytest Quick Start Guide](https://www.packtpub.com/product/pytest-quick-start-guide/9781789347562) (Packt)
+- [Python Testing with pytest](https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition) (Pragmatic Bookshelf)
+- [Python Testing with Selenium](https://link.springer.com/book/10.1007/978-1-4842-6249-8) (Apress)
+- [Python Unit Test Automation](https://www.oreilly.com/library/view/python-unit-test/9781484226766) (O'Reilly)
+- [Testing In Python](https://www.amazon.com/Testing-Python-Robust-Professionals/dp/B0857CFM17) (Independently published)
+- [Testing Python](https://www.amazon.com/Testing-Python-Applying-Unit-Acceptance/dp/1118901223) (Wiley)
+- [Test-Driven Development with Python](https://www.oreilly.com/library/view/test-driven-development-with/9781491958698) (O'Reilly)
+
+### Related
 
 - [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md#testing) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [Python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) - A comprehensive curated list of python test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on python.
