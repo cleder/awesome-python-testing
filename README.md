@@ -42,7 +42,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Code Coverage
 
-- [coverage](https://pypi.org/project/coverage) - Code coverage measurement.
+- [Coverage.py](https://github.com/nedbat/coveragepy) - is a tool for measuring code coverage of Python programs.
 - [coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) - Conditional coverage based on any rules you define.
 - [diff_cover](https://github.com/Bachmann1234/diff_cover) - Automatically find diff lines that need test coverage.
 
@@ -89,6 +89,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Mutation Testing
 
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - makes small changes to your source code, running your test suite for each one.
+- [Mutatest](https://github.com/EvanKepner/mutatest) - Python mutation testing.
 - [Mutmut](https://github.com/boxed/mutmut) - is a mutation testing system for Python, with a strong focus on ease of use.
 
 ## Object Factories
@@ -101,6 +102,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Penetration Testing
 
 - [fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework.
+- [python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers.
 
 ## Property Based Testing
 
