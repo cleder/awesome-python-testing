@@ -42,7 +42,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Code Coverage
 
-- [Coverage.py](https://coverage.readthedocs.io) - is a tool for measuring code coverage of Python programs.
+- [Coverage.py](https://github.com/nedbat/coveragepy) - is a tool for measuring code coverage of Python programs.
 - [coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) - Conditional coverage based on any rules you define.
 - [diff_cover](https://github.com/Bachmann1234/diff_cover) - Automatically find diff lines that need test coverage.
 
