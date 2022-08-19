@@ -28,6 +28,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Assertions
 
+- [easycheck](https://github.com/nyggus/easycheck) - A collection of assertion-like functions to be used in code, where assertion themselves should be avoided; `easycheck` includes also function aliases to be used in unit testing.
 - [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - A python library that (mis)uses the `__eq__` method to make python code (generally unit tests) more declarative and therefore easier to read and write.
 - [Precisely](https://github.com/mwilliamson/python-precisely) - allows you to write precise assertions so you only test the behaviour you're really interested in.
 - [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - is a framework for writing matcher objects, allowing you to declaratively define "match" rules.
@@ -153,6 +154,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [doctest](https://docs.python.org/3/library/doctest.html) - (Python standard library) The doctest module searches for pieces of text that look like interactive Python sessions, and then executes those sessions to verify that they work exactly as shown.
 - [hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest.
 - [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2`.
+- [perftester](https://github.com/nyggus/perftester) - A lightweight framework for performance testing of Python functions; allows for testing of performance in terms of execution time and memory usage.
 - [pytest](https://docs.pytest.org/en/latest) - A mature full-featured Python testing tool.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
 - [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
