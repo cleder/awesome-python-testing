@@ -160,7 +160,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 - [Ward](https://github.com/darrenburns/ward) - is a modern test framework for Python with a focus on productivity and readability.
 - [xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
-- [perftester](https://github.com/nyggus/perftester) - A lightweight framework for performance testing of Pyuthon functions; aloows for testing of performance in terms of execution time and memory usage.
+- [perftester](https://github.com/nyggus/perftester) - A lightweight framework for performance testing of Python functions; allows for testing of performance in terms of execution time and memory usage.
 
 ## Tools
 
