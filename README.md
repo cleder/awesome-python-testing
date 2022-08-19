@@ -33,6 +33,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - is a framework for writing matcher objects, allowing you to declaratively define "match" rules.
 - [pytest_cache_assert](https://github.com/kyleking/pytest_cache_assert) - Cache assertion data to simplify regression testing of complex serializable data.
 - [sure](https://github.com/gabrielfalcao/sure) - An idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js.
+- [easycheck](https://github.com/nyggus/easycheck) - A collection of assertion-like functions to be used in code, where assertion themselves should be avoided; `easycheck` includes also function aliases to be used in unit testing.
 
 ## Behavior-driven Development
 
@@ -159,6 +160,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 - [Ward](https://github.com/darrenburns/ward) - is a modern test framework for Python with a focus on productivity and readability.
 - [xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
+- [perftester](https://github.com/nyggus/perftester) - A lightweight framework for performance testing of Pyuthon functions; aloows for testing of performance in terms of execution time and memory usage.
 
 ## Tools
 
