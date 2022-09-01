@@ -29,6 +29,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Assertions
 
 - [easycheck](https://github.com/nyggus/easycheck) - A collection of assertion-like functions to be used in code, where assertion themselves should be avoided; `easycheck` includes also function aliases to be used in unit testing.
+- [expects](https://github.com/jaimegildesagredo/expects) - Expects is an expressive and extensible TDD/BDD assertion library for Python.
 - [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - A python library that (mis)uses the `__eq__` method to make python code (generally unit tests) more declarative and therefore easier to read and write.
 - [Precisely](https://github.com/mwilliamson/python-precisely) - allows you to write precise assertions so you only test the behaviour you're really interested in.
 - [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - is a framework for writing matcher objects, allowing you to declaratively define "match" rules.
@@ -66,7 +67,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Dynamic Workload Model](https://github.com/hseera/dynamic-workload-model) - Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.
 - [Grizzly](https://github.com/biometria-se/grizzly) - is a framework to be able to easily define load scenarios, and is mainly built on-top of Locust and Behave.
 - [Locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-- [pynonymizer](https://github.com/jerometwell/pynonymizer) - is a universal tool for translating sensitive production database dumps into anonymized copies. 
+- [pynonymizer](https://github.com/jerometwell/pynonymizer) - is a universal tool for translating sensitive production database dumps into anonymized copies.
 
 ## Mock and Stub
 
