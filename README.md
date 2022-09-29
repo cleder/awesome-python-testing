@@ -137,7 +137,9 @@ Collection of awesome Python resources for testing and generating test data.
 - [flake8](https://gitlab.com/pycqa/flake8) - is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of python code.
 - [pyanalyze](https://github.com/quora/pyanalyze) - A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and some categories of type mismatches.
 - [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors.
-- [Pylint](https://github.com/PyCQA/pylint) - is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+- [Pylint](https://github.com/PyCQA/pylint) - A Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+- [Refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases.
+- [ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [slotscheck](https://github.com/ariebovenberg/slotscheck) - Find mistakes in your `__slots__` definitions.
 - [Typecheckers](https://github.com/ethanhs/python-typecheckers) - A list of Python type checkers.
 
