@@ -185,6 +185,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Flybirds](https://github.com/ctripcorp/flybirds) - is a front-end UI automation test framework based on BDD mode, providing a series of out-of-the-box tools and complete documentation.
 - [Golem](https://github.com/golemhq/golem) - is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.
 - [helium](https://github.com/mherrmann/selenium-python-helium) - is great for web automation. Helium makes it easier to use.
+- [Lost Pixel](https://github.com/lost-pixel/lost-pixel) - is an open source visual regression testing tool. Run visual regression tests on your Storybook and Ladle stories and on your application pages.
 - [LuluTest](https://github.com/erik-whiting/LuluTest) - is an open source browser automation framework using Python and Selenium.
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - is a cross-platform GUI automation Python module for human beings.
 - [pytest-ui-automatic](https://github.com/moyu6027/pytest-ui-automatic) - Playwright Python tool practice pytest pytest-bdd screen-play page-object allure cucumber-report.
