@@ -9,6 +9,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Design by Contract](#design-by-contract)
 - [Fake Data](#fake-data)
 - [Load Testing](#load-testing)
+- [Memory Management](#memory-management)
 - [Mock and Stub](#mock-and-stub)
 - [Mutation Testing](#mutation-testing)
 - [Object Factories](#object-factories)
@@ -68,6 +69,14 @@ Collection of awesome Python resources for testing and generating test data.
 - [Grizzly](https://github.com/biometria-se/grizzly) - is a framework to be able to easily define load scenarios, and is mainly built on-top of Locust and Behave.
 - [Locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 - [pynonymizer](https://github.com/jerometwell/pynonymizer) - is a universal tool for translating sensitive production database dumps into anonymized copies.
+
+## Memory Management
+
+- [filprofiler](https://github.com/pythonspeed/filprofiler) - A Python memory profiler for data processing and scientific computing applications.
+- [Guppy 3](https://github.com/zhuyifei1999/guppy3) - a Python programming environment & heap analysis toolset.
+- [mem_top](https://github.com/denis-ryzhkov/mem_top) - shows top suspects for memory leaks in your Python program.
+- [Pympler](https://github.com/pympler/pympler) - is a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
+- [tracemalloc](https://docs.python.org/3/library/tracemalloc.html) - is a debug tool to trace memory blocks allocated by Python.
 
 ## Mock and Stub
 
