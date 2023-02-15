@@ -221,6 +221,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [Architecture Patterns with Python](https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197) (O'Reilly)
 - [Crafting Test-Driven Software with Python](https://www.packtpub.com/product/crafting-test-driven-software-with-python/9781838642655) (Packt)
+- [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
 - [pytest Quick Start Guide](https://www.packtpub.com/product/pytest-quick-start-guide/9781789347562) (Packt)
 - [Python Testing with pytest](https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition) (Pragmatic Bookshelf)
 - [Python Testing with Selenium](https://link.springer.com/book/10.1007/978-1-4842-6249-8) (Apress)
