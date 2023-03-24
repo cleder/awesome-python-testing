@@ -170,6 +170,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2`.
 - [perftester](https://github.com/nyggus/perftester) - A lightweight framework for performance testing of Python functions; allows for testing of performance in terms of execution time and memory usage.
 - [pytest](https://docs.pytest.org/en/latest) - A mature full-featured Python testing tool.
+- [sundew](https://github.com/devenjarvis/sundew/) - Sundew is a testing framework for Python, implementing a new approach to testing. One that combines functional programming concepts and the general best practices for writing tests that we already know, and enforces them in a way that enables some really powerful features that make testing easier, enjoyable, and more effective.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
 - [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
 - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
