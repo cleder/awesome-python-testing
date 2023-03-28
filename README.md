@@ -54,6 +54,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [deal](https://github.com/life4/deal) - Design by contract for Python with static checker and test generation.
 - [icontract](https://github.com/Parquery/icontract) - Design-by-contract in Python3 with informative violation messages and inheritance.
+- [pact-python](https://github.com/pact-foundation/pact-python) - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 
 ## Fake Data
 
@@ -115,6 +116,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework.
 - [python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers.
+- [fencer](https://github.com/abunuwas/fencer) - Fencer is an automated API security testing tool. It's an experimental project to see how much of the API security testing process can be automated.
 
 ## Property Based Testing
 
