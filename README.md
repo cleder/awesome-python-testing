@@ -209,6 +209,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - is an all-in-one Python framework for automated browser testing. Tests are run with "pytest", and use WebDriver APIs for web-page interaction.
 - [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
 - [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
+- [squape](https://github.com/CyberAlpaca/squish-api-python-extension) - is a package that extends Squish API providing convenience tools for everyday automated test cases development.
 
 ## Resources
 ### Articles
