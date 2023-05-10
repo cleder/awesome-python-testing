@@ -68,6 +68,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Load Testing
 
 - [Dynamic Workload Model](https://github.com/hseera/dynamic-workload-model) - Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.
+- [Grasshopper](https://github.com/alteryx/locust-grasshopper) - A lightweight framework for performing load tests against an environment, primarily against an API. Grasshopper glues Locust, Pytest, some plugins (namely Locust InfluxDBListener ) and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
 - [Grizzly](https://github.com/biometria-se/grizzly) - is a framework to be able to easily define load scenarios, and is mainly built on-top of Locust and Behave.
 - [Locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 - [pynonymizer](https://github.com/jerometwell/pynonymizer) - is a universal tool for translating sensitive production database dumps into anonymized copies.
