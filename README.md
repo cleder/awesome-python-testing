@@ -127,6 +127,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Rest API Testing
 
 - [behave-restful](https://github.com/behave-restful/behave-restful) - BDD Framework to Test REST Services and APIs.
+- [cherrybomb](https://github.com/blst-security/cherrybomb) - CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [Dredd](https://github.com/apiaryio/dredd) - is a language-agnostic command-line tool for validating API description document against backend implementation of the API.
 - [HttpRunner](https://github.com/httprunner/httprunner) - is a simple & elegant, yet powerful HTTP(S) testing framework.
 - [hypothesis-graphql](https://github.com/Stranger6667/hypothesis-graphql) - Hypothesis strategies for GraphQL schemas, queries and data.
