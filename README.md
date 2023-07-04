@@ -220,6 +220,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
 - [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
 - [Testing your Python Code with Hypothesis](https://www.inspiredpython.com/course/testing-with-hypothesis/testing-your-python-code-with-hypothesis) - A look at how Hypothesis can help you discover errors in your code.
+- [Patterns of flakey Python tests](https://tech.octopus.energy/news/2022/05/23/flakey-python-tests.html) - This post details several patterns that cause flakey Python tests. Being aware of these common causes can help when investigating your own flakey tests.
 - [Unit testing Python code in Jupyter notebooks](https://www.wrighters.io/unit-testing-python-code-in-jupyter-notebooks) -  This article covers several options for unit testing Python code in a Jupyter notebook.
 - [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - These software engineering rules and testing best practices might help save you time and headaches.
 
