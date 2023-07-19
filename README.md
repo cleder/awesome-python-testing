@@ -178,9 +178,9 @@ Collection of awesome Python resources for testing and generating test data.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
 - [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
 - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
+- [vedro](https://github.com/vedro-universe/vedro) - Pragmatic testing framework for Python
 - [Ward](https://github.com/darrenburns/ward) - is a modern test framework for Python with a focus on productivity and readability.
 - [xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
-- [vedro](https://vedro.io) - Pragmatic testing framework for Python
 
 ## Tools
 
