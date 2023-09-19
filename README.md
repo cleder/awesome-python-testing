@@ -111,7 +111,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
 - [mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
 - [Model Bakery](https://github.com/model-bakers/model_bakery) - offers you a smart way to create fixtures for testing in Django.
-- [pydantic-factories](https://github.com/Goldziher/pydantic-factories) - offers mock data generation for pydantic based models.
+- [polyfactory](https://github.com/litestar-org/polyfactory) - A simple and powerful mock data generation library, based around type hints and supporting dataclasses, typed-dicts, pydantic models, msgspec structs and more.
 
 ## Penetration Testing
 
@@ -173,6 +173,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest.
 - [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2`.
 - [perftester](https://github.com/nyggus/perftester) - A lightweight framework for performance testing of Python functions; allows for testing of performance in terms of execution time and memory usage.
+- [promptimize](https://github.com/preset-io/promptimize) - a prompt engineering evaluation and testing toolkit. It accelerates and provides structure around prompt engineering at scale with confidence, bringing some of the ideas behind test-driven development (TDD) to engineering prompts.
 - [pytest](https://docs.pytest.org/en/latest) - A mature full-featured Python testing tool.
 - [sundew](https://github.com/devenjarvis/sundew/) - Sundew is a testing framework for Python, implementing a new approach to testing. One that combines functional programming concepts and the general best practices for writing tests that we already know, and enforces them in a way that enables some really powerful features that make testing easier, enjoyable, and more effective.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
