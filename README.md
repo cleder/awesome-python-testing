@@ -1,4 +1,5 @@
 # Awesome Python Testing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Collection of awesome Python resources for testing and generating test data.
 
 ## Contents
@@ -246,7 +247,6 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [PyCon US 2023 - Talk - Shai Geva: 10 Ways To Shoot Yourself In The Foot With Tests](https://youtu.be/Ub31Ae6S1BY)
 - [PyCon US 2023 - Tutorial - Zac Hatfield-Dodds, Ryan Soklaski: Introduction to Property-Based Testing](https://youtu.be/YwYIDpze52s)
-
 
 ### Related
 
