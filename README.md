@@ -23,9 +23,9 @@ Collection of awesome Python resources for testing and generating test data.
 - [Tools](#tools)
 - [UI Testing](#ui-testing)
 - [Resources](#resources)
-    - [Articles](#articles)
-    - [Books](#books)
-    - [Related](#related)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Related](#related)
 
 ## Assertions
 
@@ -216,6 +216,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [squape](https://github.com/CyberAlpaca/squish-api-python-extension) - is a package that extends Squish API providing convenience tools for everyday automated test cases development.
 
 ## Resources
+
 ### Articles
 
 - [Anna-Lena Popkes: "Mocking in Python"](https://alpopkes.com/posts/python/mocking/)
