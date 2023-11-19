@@ -218,7 +218,9 @@ Collection of awesome Python resources for testing and generating test data.
 ## Resources
 ### Articles
 
+- [Anna-Lena Popkes: "Mocking in Python"](https://alpopkes.com/posts/python/mocking/)
 - [async test patterns for Pytest](https://tonybaloney.github.io/posts/async-test-patterns-for-pytest-and-unittest.html) - Learn some handy async examples and patterns for testing in Pytest.
+- [How not to footgun yourself when writing tests](https://www.marwansarieddine.com/posts/flaky_tests) - a showcase of flaky tests
 - [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
 - [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
 - [Testing your Python Code with Hypothesis](https://www.inspiredpython.com/course/testing-with-hypothesis/testing-your-python-code-with-hypothesis) - A look at how Hypothesis can help you discover errors in your code.
@@ -238,6 +240,12 @@ Collection of awesome Python resources for testing and generating test data.
 - [Testing In Python](https://www.amazon.com/Testing-Python-Robust-Professionals/dp/B0857CFM17) (Independently published)
 - [Testing Python](https://www.amazon.com/Testing-Python-Applying-Unit-Acceptance/dp/1118901223) (Wiley)
 - [Test-Driven Development with Python](https://www.oreilly.com/library/view/test-driven-development-with/9781491958698) (O'Reilly)
+
+## Videos
+
+- [PyCon US 2023 - Talk - Shai Geva: 10 Ways To Shoot Yourself In The Foot With Tests](https://youtu.be/Ub31Ae6S1BY)
+- [PyCon US 2023 - Tutorial - Zac Hatfield-Dodds, Ryan Soklaski: Introduction to Property-Based Testing](https://youtu.be/YwYIDpze52s)
+
 
 ### Related
 
