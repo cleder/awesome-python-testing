@@ -106,6 +106,8 @@ Collection of awesome Python resources for testing and generating test data.
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - makes small changes to your source code, running your test suite for each one.
 - [Mutatest](https://github.com/EvanKepner/mutatest) - Python mutation testing.
 - [Mutmut](https://github.com/boxed/mutmut) - is a mutation testing system for Python, with a strong focus on ease of use.
+- [MutPy](https://github.com/mutpy/mutpy) - MutPy is a mutation testing tool for Python 3.x source code
+- [xmutant.py](https://github.com/vrthra/xmutant.py) - Python 3.6 bytecode based mutation analysis framework
 
 ## Object Factories
 
@@ -247,6 +249,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [PyCon US 2023 - Talk - Shai Geva: 10 Ways To Shoot Yourself In The Foot With Tests](https://youtu.be/Ub31Ae6S1BY)
 - [PyCon US 2023 - Tutorial - Zac Hatfield-Dodds, Ryan Soklaski: Introduction to Property-Based Testing](https://youtu.be/YwYIDpze52s)
+- [PyCon US 2023 -Talk - Dave Aronson: Kill All Mutants! (Intro to Mutation Testing)](https://youtu.be/G0MbITvWfgY)
 
 ### Related
 
