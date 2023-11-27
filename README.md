@@ -17,6 +17,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Penetration Testing](#penetration-testing)
 - [Property Based Testing](#property-based-testing)
 - [Rest API Testing](#rest-api-testing)
+- [Snapshot Tests](#snapshot-tests)
 - [Speed](#speed)
 - [Static Checks](#static-checks)
 - [Test Runners](#test-runners)
@@ -24,15 +25,12 @@ Collection of awesome Python resources for testing and generating test data.
 - [Tools](#tools)
 - [UI Testing](#ui-testing)
 - [Resources](#resources)
-  - [Articles](#articles)
-  - [Books](#books)
-  - [Related](#related)
 
 ## Assertions
 
 - [easycheck](https://github.com/nyggus/easycheck) - A collection of assertion-like functions to be used in code, where assertion themselves should be avoided; `easycheck` includes also function aliases to be used in unit testing.
 - [expects](https://github.com/jaimegildesagredo/expects) - Expects is an expressive and extensible TDD/BDD assertion library for Python.
--[expycted](https://github.com/bdsoha/expycted) - Another Python expect pattern implementation. Simple, intuitive and approachable, with ability to plug in to any testing framework that relies on assertions.
+- [expycted](https://github.com/bdsoha/expycted) - Another Python expect pattern implementation. Simple, intuitive and approachable, with ability to plug in to any testing framework that relies on assertions.
 - [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - A python library that (mis)uses the `__eq__` method to make python code (generally unit tests) more declarative and therefore easier to read and write.
 - [Precisely](https://github.com/mwilliamson/python-precisely) - allows you to write precise assertions so you only test the behaviour you're really interested in.
 - [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - is a framework for writing matcher objects, allowing you to declaratively define "match" rules.
@@ -99,7 +97,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Pretend](https://github.com/alex/pretend) - is a library to make stubbing with Python easier.
 - [responses](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
 - [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
-- [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
+- [trustme](https://github.com/python-trio/trustme) -gives you a fake certificate authority (CA) that you can use to generate fake TLS certs to use in your tests.
 
 ## Mutation Testing
 
@@ -135,10 +133,16 @@ Collection of awesome Python resources for testing and generating test data.
 - [HttpRunner](https://github.com/httprunner/httprunner) - is a simple & elegant, yet powerful HTTP(S) testing framework.
 - [hypothesis-graphql](https://github.com/Stranger6667/hypothesis-graphql) - Hypothesis strategies for GraphQL schemas, queries and data.
 - [Schemathesis](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
-- [SnapshotTest](https://github.com/syrusakbary/snapshottest) - is a way to test your APIs without writing actual test cases.
 - [playback](https://github.com/Optibus/playback) - A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [Tavern](https://github.com/taverntesting/tavern) - is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
+
+## Snapshot Tests
+
+- [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - work by comparing the test results to a golden master.
+- [SnapshotTest](https://github.com/syrusakbary/snapshottest) - is a way to test your APIs without writing actual test cases.
+- [syrupy](https://github.com/tophat/syrupy) - is a zero-dependency pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
+- [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 
 ## Speed
 
@@ -188,7 +192,6 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Tools
 
-- [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - work by comparing the test results to a golden master.
 - [Auger](https://github.com/laffra/auger) - is a project to automatically generate unit tests for Python code.
 - [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
 - [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test.
@@ -222,7 +225,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ### Articles
 
-- [Anna-Lena Popkes: "Mocking in Python"](https://alpopkes.com/posts/python/mocking/)
+- [Anna-Lena Popkes: "Mocking in Python"](https://alpopkes.com/posts/python/mocking/) - Mocking might seem confusing in the beginning but once you understand the basics it can be very helpful.
 - [async test patterns for Pytest](https://tonybaloney.github.io/posts/async-test-patterns-for-pytest-and-unittest.html) - Learn some handy async examples and patterns for testing in Pytest.
 - [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
 - [How not to footgun yourself when writing tests](https://www.marwansarieddine.com/posts/flaky_tests) - a showcase of flaky tests
