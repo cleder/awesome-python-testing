@@ -248,7 +248,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Testing Python](https://www.amazon.com/Testing-Python-Applying-Unit-Acceptance/dp/1118901223) (Wiley)
 - [Test-Driven Development with Python](https://www.oreilly.com/library/view/test-driven-development-with/9781491958698) (O'Reilly)
 
-## Videos
+### Videos
 
 - [PyCon US 2023 - Talk - Dan Craig: Testing Spacecraft with Pytest](https://youtu.be/spCOYV4KyPA)
 - [PyCon US 2023 - Talk - Dave Aronson: Kill All Mutants! (Intro to Mutation Testing)](https://youtu.be/G0MbITvWfgY)
