@@ -250,6 +250,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ### Videos
 
+- [PyCascades 2023 - Talk - Brian Okken: "Sharing is Caring - Sharing pytest Fixtures"](https://youtu.be/kevcz8NRcQU)
 - [PyCon US 2023 - Talk - Dan Craig: Testing Spacecraft with Pytest](https://youtu.be/spCOYV4KyPA)
 - [PyCon US 2023 - Talk - Dave Aronson: Kill All Mutants! (Intro to Mutation Testing)](https://youtu.be/G0MbITvWfgY)
 - [PyCon US 2023 - Talk - Shai Geva: 10 Ways To Shoot Yourself In The Foot With Tests](https://youtu.be/Ub31Ae6S1BY)
