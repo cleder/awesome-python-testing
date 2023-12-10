@@ -123,6 +123,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Property Based Testing
 
 - [Atheris](https://github.com/google/atheris) - is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython.
+- [hypofuzz](https://github.com/Zac-HD/hypofuzz) - Adaptive fuzzing of Hypothesis tests.
 - [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - is an advanced Quickcheck style property based testing library.
 
 ## Rest API Testing
