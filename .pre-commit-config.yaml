@@ -17,3 +17,7 @@ repos:
           - MD013
           - --strict
           - scan
+  - repo: https://github.com/AlexanderDokuchaev/md-dead-link-check
+    rev: v0.1.0
+    hooks:
+      - id: md-dead-link-check
