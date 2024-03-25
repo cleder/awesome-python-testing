@@ -9,7 +9,7 @@ repos:
       - id: check-yaml
       - id: check-added-large-files
   - repo: https://github.com/jackdewinter/pymarkdown
-    rev: v0.9.17
+    rev: v0.9.18
     hooks:
       - id: pymarkdown
         args:
@@ -18,6 +18,6 @@ repos:
           - --strict
           - scan
   - repo: https://github.com/AlexanderDokuchaev/md-dead-link-check
-    rev: v0.6
+    rev: v0.7
     hooks:
       - id: md-dead-link-check
