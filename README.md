@@ -28,12 +28,13 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Assertions
 
+- [believe](https://github.com/pkyosx/believe) - A python package for json/dictionary validation.
 - [easycheck](https://github.com/nyggus/easycheck) - A collection of assertion-like functions to be used in code, where assertion themselves should be avoided; `easycheck` includes also function aliases to be used in unit testing.
 - [expects](https://github.com/jaimegildesagredo/expects) - Expects is an expressive and extensible TDD/BDD assertion library for Python.
 - [expycted](https://github.com/bdsoha/expycted) - Another Python expect pattern implementation. Simple, intuitive and approachable, with ability to plug in to any testing framework that relies on assertions.
 - [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - A python library that (mis)uses the `__eq__` method to make python code (generally unit tests) more declarative and therefore easier to read and write.
-- [Precisely](https://github.com/mwilliamson/python-precisely) - allows you to write precise assertions so you only test the behaviour you're really interested in.
-- [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - is a framework for writing matcher objects, allowing you to declaratively define "match" rules.
+- [Precisely](https://github.com/mwilliamson/python-precisely) - Write precise assertions so you only test the behaviour you're really interested in.
+- [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - A framework for writing matcher objects, allowing you to declaratively define "match" rules.
 - [pytest_cache_assert](https://github.com/kyleking/pytest_cache_assert) - Cache assertion data to simplify regression testing of complex serializable data.
 - [sure](https://github.com/gabrielfalcao/sure) - An idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js.
 
@@ -97,7 +98,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Pretend](https://github.com/alex/pretend) - is a library to make stubbing with Python easier.
 - [responses](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
 - [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
-- [trustme](https://github.com/python-trio/trustme) -gives you a fake certificate authority (CA) that you can use to generate fake TLS certs to use in your tests.
+- [trustme](https://github.com/python-trio/trustme) - gives you a fake certificate authority (CA) that you can use to generate fake TLS certs to use in your tests.
 
 ## Mutation Testing
 
@@ -125,6 +126,9 @@ Collection of awesome Python resources for testing and generating test data.
 - [Atheris](https://github.com/google/atheris) - is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython.
 - [hypofuzz](https://github.com/Zac-HD/hypofuzz) - Adaptive fuzzing of Hypothesis tests.
 - [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - is an advanced Quickcheck style property based testing library.
+- [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto/) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions.
+- [hypothesis-crosshair](https://github.com/pschanely/hypothesis-crosshair) - Add the power of solver-based symbolic execution to your Hypothesis tests with CrossHair.
+- [icontract-hypothesis](https://github.com/mristin/icontract-hypothesis) - Instead of writing manually the Hypothesis search strategies for a function, `icontract-hypothesis` infers them based on the function's precondition.
 
 ## Rest API Testing
 
@@ -193,14 +197,14 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Tools
 
-- [Auger](https://github.com/laffra/auger) - is a project to automatically generate unit tests for Python code.
+- [Auger](https://github.com/laffra/auger) - Project to automatically generate unit tests for Python code.
 - [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
 - [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test.
 - [importlab](https://github.com/google/importlab) - A library that automatically infers dependencies for Python files. Importlab's main use case is to work with static analysis tools that process one file at a time, ensuring that a file's dependencies are analysed before it is.
-- [Klara](https://github.com/usagitoneko97/klara) - is a static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system.
-- [Pifpaf](https://github.com/jd/pifpaf) - is a suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
-- [Ponicode](https://www.ponicode.com) - AI-powered unit testing interface for VS Code. Write, generate, modify and visualise all kinds of unit tests for JavaScript, TypeScript and Python.
-- [Pynguin](https://github.com/se2p/pynguin) - is a tool that allows developers to generate unit tests automatically.
+- [Klara](https://github.com/usagitoneko97/klara) - Static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system.
+- [logot](https://github.com/etianen/logot) - Test whether your code is logging correctly.
+- [Pifpaf](https://github.com/jd/pifpaf) - A suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
+- [Pynguin](https://github.com/se2p/pynguin) - A tool that allows developers to generate unit tests automatically.
 - [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codgen will statically analyze your code to create pytest function stubs.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
