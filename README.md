@@ -92,6 +92,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [httpretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
 - [Kesha](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks.
 - [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
+- [Mockafka](https://github.com/alm0ra/mockafka-py) - Python library designed for mocking Kafka in a testing environment. It simplifies testing Kafka-integrated applications by providing an in-memory mock for aiokafka and confluent-kafka-python.
 - [mocket](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
 - [Mockintosh](https://github.com/up9inc/mockintosh) - aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications.
 - [moto](https://github.com/spulec/moto) - allows you to easily mock out tests based on AWS infrastructure.
