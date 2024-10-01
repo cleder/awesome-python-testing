@@ -171,6 +171,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [slotscheck](https://github.com/ariebovenberg/slotscheck) - Find mistakes in your `__slots__` definitions.
 - [Typecheckers](https://github.com/ethanhs/python-typecheckers) - A list of Python type checkers.
+- [typos](https://github.com/crate-ci/typos) - A Source code spell checker that finds and corrects spelling mistakes in source code.
 
 ## Test Runners
 
