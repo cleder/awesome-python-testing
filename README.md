@@ -70,6 +70,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [protestr](https://github.com/Grimmscorpp/protestr) - A simple, powerful fixture provider for Python tests. Protestr's intuitive API lets you generate versatile fixtures for your test cases and inject them as dependencies on demand.
 - [pytest-deadfixtures](https://github.com/jllorencetti/pytest-deadfixtures) - A simple plugin to list unused or duplicated fixtures in a pytest suite.
+- [pytest-mysql](https://github.com/ClearcodeHQ/pytest-mysql) - A pytest plugin, that enables you to test your code that relies on a running MySQL Database. It allows you to specify fixtures for MySQL process and client.
 
 ## Load Testing
 
