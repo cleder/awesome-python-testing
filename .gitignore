@@ -130,3 +130,7 @@ dmypy.json
 
 # deepcode/snyk
 .dccache
+
+# editor configurations
+.idea
+.vscode
