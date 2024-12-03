@@ -9,6 +9,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Code Coverage](#code-coverage)
 - [Design by Contract](#design-by-contract)
 - [Fake Data](#fake-data)
+- [Fixtures](#fixtures)
 - [Load Testing](#load-testing)
 - [Memory Management](#memory-management)
 - [Mock and Stub](#mock-and-stub)
@@ -64,6 +65,10 @@ Collection of awesome Python resources for testing and generating test data.
 - [genuine-fake](https://github.com/xeroxzen/genuine-fake) - Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.
 - [mimesis](https://github.com/lk-geimfari/mimesis) - A Python library that helps you generate fake data.
 - [radar](https://pypi.org/project/radar) - Generate random datetime / time.
+
+## Fixtures
+
+- [protestr](https://github.com/Grimmscorpp/protestr) - is a simple, powerful fixture provider for Python tests. Protestr's intuitive API lets you generate versatile fixtures for your test cases and inject them as dependencies on demand.
 
 ## Load Testing
 
@@ -210,6 +215,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Pifpaf](https://github.com/jd/pifpaf) - A suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
 - [Pynguin](https://github.com/se2p/pynguin) - A tool that allows developers to generate unit tests automatically.
 - [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codgen will statically analyze your code to create pytest function stubs.
+- [pytest-databases](https://github.com/litestar-org/pytest-databases) - Reusable database fixtures for any and all databases.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
 - [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
