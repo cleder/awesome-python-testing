@@ -68,7 +68,8 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Fixtures
 
-- [protestr](https://github.com/Grimmscorpp/protestr) - is a simple, powerful fixture provider for Python tests. Protestr's intuitive API lets you generate versatile fixtures for your test cases and inject them as dependencies on demand.
+- [protestr](https://github.com/Grimmscorpp/protestr) - A simple, powerful fixture provider for Python tests. Protestr's intuitive API lets you generate versatile fixtures for your test cases and inject them as dependencies on demand.
+- [pytest-deadfixtures](https://github.com/jllorencetti/pytest-deadfixtures) - A simple plugin to list unused or duplicated fixtures in a pytest suite.
 
 ## Load Testing
 
@@ -214,7 +215,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [logot](https://github.com/etianen/logot) - Test whether your code is logging correctly.
 - [Pifpaf](https://github.com/jd/pifpaf) - A suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
 - [Pynguin](https://github.com/se2p/pynguin) - A tool that allows developers to generate unit tests automatically.
-- [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codgen will statically analyze your code to create pytest function stubs.
+- [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codegen will statically analyze your code to create pytest function stubs.
 - [pytest-databases](https://github.com/litestar-org/pytest-databases) - Reusable database fixtures for any and all databases.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
