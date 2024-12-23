@@ -22,6 +22,6 @@ repos:
     hooks:
       - id: md-dead-link-check
   - repo: https://github.com/crate-ci/typos
-    rev: v1.28.3
+    rev: v1.28.4
     hooks:
       - id: typos
