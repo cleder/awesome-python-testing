@@ -18,10 +18,10 @@ repos:
           - --strict
           - scan
   - repo: https://github.com/AlexanderDokuchaev/md-dead-link-check
-    rev: v0.9
+    rev: v1.0.1
     hooks:
       - id: md-dead-link-check
   - repo: https://github.com/crate-ci/typos
-    rev: v1.28.4
+    rev: dictgen-v0.3.1
     hooks:
       - id: typos
