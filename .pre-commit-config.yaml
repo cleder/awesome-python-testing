@@ -9,7 +9,7 @@ repos:
       - id: check-yaml
       - id: check-added-large-files
   - repo: https://github.com/jackdewinter/pymarkdown
-    rev: v0.9.26
+    rev: v0.9.27
     hooks:
       - id: pymarkdown
         args:
