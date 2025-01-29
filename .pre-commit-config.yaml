@@ -18,7 +18,7 @@ repos:
           - --strict
           - scan
   - repo: https://github.com/AlexanderDokuchaev/md-dead-link-check
-    rev: v1.0.1
+    rev: v1.1.0
     hooks:
       - id: md-dead-link-check
   - repo: https://github.com/crate-ci/typos
