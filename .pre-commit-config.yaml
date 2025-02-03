@@ -22,6 +22,6 @@ repos:
     hooks:
       - id: md-dead-link-check
   - repo: https://github.com/crate-ci/typos
-    rev: dictgen-v0.3.1
+    rev: typos-dict-v0.12.4
     hooks:
       - id: typos
