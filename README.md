@@ -201,6 +201,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [pytest](https://docs.pytest.org/en/latest) - A mature full-featured Python testing tool.
 - [sundew](https://github.com/devenjarvis/sundew/) - Sundew is a testing framework for Python, implementing a new approach to testing. One that combines functional programming concepts and the general best practices for writing tests that we already know, and enforces them in a way that enables some really powerful features that make testing easier, enjoyable, and more effective.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
+- [Sphinx-testify](https://github.com/BasicWolf/sphinx-testify) - Testified documentation means that the documentation source references test results, and these references are verified during the build process. As a result, we can keep every paragraph even every sentence of the documentation aligned with the code, as long as there is a test that "testifies" the described behaviour.
 - [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
 - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 - [vedro](https://github.com/vedro-universe/vedro) - Pragmatic testing framework for Python
