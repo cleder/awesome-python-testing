@@ -1,5 +1,4 @@
-# See https://pre-commit.com for more information
-# See https://pre-commit.com/hooks.html for more hooks
+---
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
@@ -25,3 +24,8 @@ repos:
     rev: v1
     hooks:
       - id: typos
+  - repo: https://github.com/rvben/rumdl-pre-commit
+    rev: v0.0.140
+    hooks:
+      - id: rumdl
+...

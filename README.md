@@ -138,6 +138,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto/) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions.
 - [hypothesis-crosshair](https://github.com/pschanely/hypothesis-crosshair) - Add the power of solver-based symbolic execution to your Hypothesis tests with CrossHair.
 - [icontract-hypothesis](https://github.com/mristin/icontract-hypothesis) - Instead of writing manually the Hypothesis search strategies for a function, `icontract-hypothesis` infers them based on the function's precondition.
+- [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
 
 ## Rest API Testing
 
