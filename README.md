@@ -44,7 +44,8 @@ Collection of awesome Python resources for testing and generating test data.
 - [behave](https://github.com/behave/behave) - is behavior-driven development, Python style.
 - [lettuce](https://github.com/gabrielfalcao/lettuce) - Behavior-driven-development tool for python, inspired by Cucumber for Ruby.
 - [mamba](http://nestorsalceda.github.io/mamba) - The definitive testing tool for Python. Born under the banner of BDD.
-
+- [pytest-pyspec](https://github.com/felipecrp/pytest-pyspec) - Transforms pytest output into a beautiful, readable format similar to RSpec. It provides semantic meaning to your tests by organizing them into descriptive hierarchies.
+  
 ## Code Coverage
 
 - [Coverage.py](https://github.com/nedbat/coveragepy) - is a tool for measuring code coverage of Python programs.
