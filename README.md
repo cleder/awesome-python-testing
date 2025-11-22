@@ -234,6 +234,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [helium](https://github.com/mherrmann/selenium-python-helium) - is great for web automation. Helium makes it easier to use.
 - [Lost Pixel](https://github.com/lost-pixel/lost-pixel) - is an open source visual regression testing tool. Run visual regression tests on your Storybook and Ladle stories and on your application pages.
 - [LuluTest](https://github.com/erik-whiting/LuluTest) - is an open source browser automation framework using Python and Selenium.
+- [pomcorn](https://github.com/saritasa-nest/pomcorn) -  is an open source Python package that contains base classes to create systems based on Selenium framework and Page Object Model pattern
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - is a cross-platform GUI automation Python module for human beings.
 - [pytest-ui-automatic](https://github.com/moyu6027/pytest-ui-automatic) - Playwright Python tool practice pytest pytest-bdd screen-play page-object allure cucumber-report.
 - [selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python (Selenide port).
