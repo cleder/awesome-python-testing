@@ -164,6 +164,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Speed
 
+- [Django-Mercury-Performance-Testing](https://github.com/smattymatty/Django-Mercury-Performance-Testing) - Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more!
 - [Partial Testing](https://github.com/man-group/partialtesting) - Run only the tests that are relevant for your changes.
 - [Pytest-incremental](https://github.com/pytest-dev/pytest-incremental) - analyses your project structure and file modifications between test-runs to modify the order tests are executed and de-select tests.
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continuous test runner when used with pytest-watch.
