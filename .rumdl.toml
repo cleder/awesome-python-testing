@@ -44,11 +44,11 @@ respect_gitignore = true
 # [MD007]
 # indent = 4  # Unordered list indentation
 
-# [MD013]
-# line_length = 100  # Line length
-# code_blocks = false  # Exclude code blocks from line length check
-# tables = false  # Exclude tables from line length check
-# headings = true  # Include headings in line length check
+[MD013]
+line-length = 0
+reflow = true
+reflow-mode = "sentence-per-line"
+
 
 # [MD044]
 # names = ["rumdl", "Markdown", "GitHub"]  # Proper names that should be capitalized correctly
