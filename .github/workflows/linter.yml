@@ -1,10 +1,30 @@
 name: Lint Awesome List
 on: [push, pull_request]
 jobs:
-  Awesome_Lint:
+
+  md-dead-link-check:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v5
+      - uses: AlexanderDokuchaev/md-dead-link-check@v1.2.0
+
+  lint-markdown:
+    name: python
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-      - run: npx awesome-lint
+      - uses: actions/checkout@v5
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+      - name: Check with rumdl
+        run: |
+          uv install rumdl
+          rumdl check .
+
+  spelling:
+    name: Spell Check with Typos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Actions Repository
+        uses: actions/checkout@v5
+      - name: Spell Check Repo
+        uses: crate-ci/typos@v1.40.0

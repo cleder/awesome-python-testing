@@ -7,15 +7,6 @@ repos:
       - id: end-of-file-fixer
       - id: check-yaml
       - id: check-added-large-files
-  - repo: https://github.com/jackdewinter/pymarkdown
-    rev: v0.9.33
-    hooks:
-      - id: pymarkdown
-        args:
-          - -d
-          - MD013
-          - --strict
-          - scan
   - repo: https://github.com/AlexanderDokuchaev/md-dead-link-check
     rev: v1.2.0
     hooks:
