@@ -1,4 +1,4 @@
-name: Lint Awesome List
+name: Lint Markdown
 on: [push, pull_request]
 jobs:
 
@@ -17,8 +17,7 @@ jobs:
         uses: astral-sh/setup-uv@v7
       - name: Check with rumdl
         run: |
-          uv install rumdl
-          rumdl check .
+          uv tool run rumdl check .
 
   spelling:
     name: Spell Check with Typos
