@@ -9,7 +9,7 @@ jobs:
       - uses: AlexanderDokuchaev/md-dead-link-check@v1.2.0
 
   lint-markdown:
-    name: python
+    name: rumdl Check
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5

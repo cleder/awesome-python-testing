@@ -230,6 +230,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## UI Testing
 
+- [aria-testing](https://github.com/t-strings/aria-testing) - Accessibility-focused DOM testing library for tdom, built with modern Python 3.14+.
 - [Flybirds](https://github.com/ctripcorp/flybirds) - is a front-end UI automation test framework based on BDD mode, providing a series of out-of-the-box tools and complete documentation.
 - [Golem](https://github.com/golemhq/golem) - is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.
 - [helium](https://github.com/mherrmann/selenium-python-helium) - is great for web automation. Helium makes it easier to use.
