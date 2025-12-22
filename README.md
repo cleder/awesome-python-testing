@@ -236,7 +236,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [helium](https://github.com/mherrmann/selenium-python-helium) - is great for web automation. Helium makes it easier to use.
 - [Lost Pixel](https://github.com/lost-pixel/lost-pixel) - is an open source visual regression testing tool. Run visual regression tests on your Storybook and Ladle stories and on your application pages.
 - [LuluTest](https://github.com/erik-whiting/LuluTest) - is an open source browser automation framework using Python and Selenium.
-- [pomcorn](https://github.com/saritasa-nest/pomcorn) -  is an open source Python package that contains base classes to create systems based on Selenium framework and Page Object Model pattern
+- [pomcorn](https://github.com/saritasa-nest/pomcorn) - is an open source Python package that contains base classes to create systems based on Selenium framework and Page Object Model pattern
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - is a cross-platform GUI automation Python module for human beings.
 - [pytest-ui-automatic](https://github.com/moyu6027/pytest-ui-automatic) - Playwright Python tool practice pytest pytest-bdd screen-play page-object allure cucumber-report.
 - [selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python (Selenide port).
@@ -258,7 +258,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
 - [Testing your Python Code with Hypothesis](https://www.inspiredpython.com/course/testing-with-hypothesis/testing-your-python-code-with-hypothesis) - A look at how Hypothesis can help you discover errors in your code.
 - [Patterns of flakey Python tests](https://tech.octopus.energy/news/2022/05/23/flakey-python-tests.html) - This post details several patterns that cause flakey Python tests. Being aware of these common causes can help when investigating your own flakey tests.
-- [Unit testing Python code in Jupyter notebooks](https://www.wrighters.io/unit-testing-python-code-in-jupyter-notebooks) -  This article covers several options for unit testing Python code in a Jupyter notebook.
+- [Unit testing Python code in Jupyter notebooks](https://www.wrighters.io/unit-testing-python-code-in-jupyter-notebooks) - This article covers several options for unit testing Python code in a Jupyter notebook.
 - [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - These software engineering rules and testing best practices might help save you time and headaches.
 
 ### Books
