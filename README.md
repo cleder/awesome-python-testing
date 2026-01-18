@@ -75,6 +75,10 @@ Collection of awesome Python resources for testing and generating test data.
 - [pytest-mysql](https://github.com/ClearcodeHQ/pytest-mysql) - A pytest plugin, that enables you to test your code that relies on a running MySQL Database. It allows you to specify fixtures for MySQL process and client.
 - [pytest-rabbitmq](https://github.com/ClearcodeHQ/pytest-rabbitmq) - A pytest plugin, that enables you to test your code that relies on a running RabbitMQ server. It allows you to specify fixtures for RabbitMQ server and client.
 
+## LLM & MCP Testing
+
+- [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
+
 ## Load Testing
 
 - [Dynamic Workload Model](https://github.com/hseera/dynamic-workload-model) - Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.
@@ -131,10 +135,6 @@ Collection of awesome Python resources for testing and generating test data.
 - [fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework.
 - [python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers.
 - [fencer](https://github.com/abunuwas/fencer) - Fencer is an automated API security testing tool. It's an experimental project to see how much of the API security testing process can be automated.
-
-## LLM & MCP Testing
-
-- [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
 
 ## Property Based Testing
 
