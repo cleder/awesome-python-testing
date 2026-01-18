@@ -10,6 +10,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Design by Contract](#design-by-contract)
 - [Fake Data](#fake-data)
 - [Fixtures](#fixtures)
+- [LLM & MCP Testing](#llm--mcp-testing)
 - [Load Testing](#load-testing)
 - [Memory Management](#memory-management)
 - [Mock and Stub](#mock-and-stub)
@@ -73,6 +74,10 @@ Collection of awesome Python resources for testing and generating test data.
 - [pytest-deadfixtures](https://github.com/jllorencetti/pytest-deadfixtures) - A simple plugin to list unused or duplicated fixtures in a pytest suite.
 - [pytest-mysql](https://github.com/ClearcodeHQ/pytest-mysql) - A pytest plugin, that enables you to test your code that relies on a running MySQL Database. It allows you to specify fixtures for MySQL process and client.
 - [pytest-rabbitmq](https://github.com/ClearcodeHQ/pytest-rabbitmq) - A pytest plugin, that enables you to test your code that relies on a running RabbitMQ server. It allows you to specify fixtures for RabbitMQ server and client.
+
+## LLM & MCP Testing
+
+- [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
 
 ## Load Testing
 
@@ -139,7 +144,6 @@ Collection of awesome Python resources for testing and generating test data.
 - [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto/) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions.
 - [hypothesis-crosshair](https://github.com/pschanely/hypothesis-crosshair) - Add the power of solver-based symbolic execution to your Hypothesis tests with CrossHair.
 - [icontract-hypothesis](https://github.com/mristin/icontract-hypothesis) - Instead of writing manually the Hypothesis search strategies for a function, `icontract-hypothesis` infers them based on the function's precondition.
-- [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
 
 ## Rest API Testing
 
