@@ -10,6 +10,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Design by Contract](#design-by-contract)
 - [Fake Data](#fake-data)
 - [Fixtures](#fixtures)
+- [LLM & MCP Testing](#llm--mcp-testing)
 - [Load Testing](#load-testing)
 - [Memory Management](#memory-management)
 - [Mock and Stub](#mock-and-stub)
@@ -131,6 +132,10 @@ Collection of awesome Python resources for testing and generating test data.
 - [python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers.
 - [fencer](https://github.com/abunuwas/fencer) - Fencer is an automated API security testing tool. It's an experimental project to see how much of the API security testing process can be automated.
 
+## LLM & MCP Testing
+
+- [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
+
 ## Property Based Testing
 
 - [Atheris](https://github.com/google/atheris) - is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython.
@@ -139,7 +144,6 @@ Collection of awesome Python resources for testing and generating test data.
 - [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto/) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions.
 - [hypothesis-crosshair](https://github.com/pschanely/hypothesis-crosshair) - Add the power of solver-based symbolic execution to your Hypothesis tests with CrossHair.
 - [icontract-hypothesis](https://github.com/mristin/icontract-hypothesis) - Instead of writing manually the Hypothesis search strategies for a function, `icontract-hypothesis` infers them based on the function's precondition.
-- [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
 
 ## Rest API Testing
 
