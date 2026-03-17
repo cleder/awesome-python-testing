@@ -78,6 +78,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## LLM & MCP Testing
 
 - [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
+- [wopee-mcp](https://docs.wopee.io/guides/wopee-mcp/) - MCP server for autonomous testing - dispatch test runs, analysis crawls, and AI agent tests from AI coding assistants.
 
 ## Load Testing
 
@@ -249,6 +250,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
 - [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 - [squape](https://github.com/CyberAlpaca/squish-api-python-extension) - is a package that extends Squish API providing convenience tools for everyday automated test cases development.
+- [wopee.rf](https://docs.wopee.io/robot-framework/) - Visual regression testing library for Robot Framework with AI-powered autonomous test maintenance.
 
 ## Resources
 
