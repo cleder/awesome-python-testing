@@ -112,6 +112,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Mockintosh](https://github.com/up9inc/mockintosh) - aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications.
 - [moto](https://github.com/spulec/moto) - allows you to easily mock out tests based on AWS infrastructure.
 - [Pretend](https://github.com/alex/pretend) - is a library to make stubbing with Python easier.
+- [pyfakefs](https://github.com/pytest-dev/pyfakefs) - A fake file system that mocks the Python file system modules.
 - [responses](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
 - [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
 - [trustme](https://github.com/python-trio/trustme) - gives you a fake certificate authority (CA) that you can use to generate fake TLS certs to use in your tests.
