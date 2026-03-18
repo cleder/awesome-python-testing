@@ -99,6 +99,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [Aioresponses](https://github.com/pnuckowski/aioresponses) - is a helper for mock/fake web requests in python aiohttp package.
 - [Cornell](https://github.com/hiredscorelabs/cornell) - record & replay mock server.
+- [D-MemFS](https://github.com/nightmarewalker/D-MemFS) - Zero-dependency in-memory virtual filesystem with hard quotas. Provides an explicit, isolated instance instead of patching global state.
 - [doublex](https://pypi.org/project/doublex) - Powerful test doubles framework for Python.
 - [Flexmock](https://github.com/flexmock/flexmock) - is a testing library for Python that makes it easy to create mocks, stubs and fakes.
 - [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
