@@ -78,7 +78,6 @@ Collection of awesome Python resources for testing and generating test data.
 ## LLM & MCP Testing
 
 - [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
-- [wopee-mcp](https://docs.wopee.io/guides/wopee-mcp/) - MCP server for autonomous testing - dispatch test runs, analysis crawls, and AI agent tests from AI coding assistants.
 
 ## Load Testing
 
@@ -258,7 +257,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [Anna-Lena Popkes: "Mocking in Python"](https://alpopkes.com/posts/python/mocking/) - Mocking might seem confusing in the beginning but once you understand the basics it can be very helpful.
 - [async test patterns for Pytest](https://tonybaloney.github.io/posts/async-test-patterns-for-pytest-and-unittest.html) - Learn some handy async examples and patterns for testing in Pytest.
-- [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
+- [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest](https://semaphore.io/blog/property-based-testing-python-hypothesis-pytest)
 - [How not to footgun yourself when writing tests](https://www.marwansarieddine.com/posts/flaky_tests) - a showcase of flaky tests
 - [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
 - [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
