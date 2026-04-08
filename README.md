@@ -251,6 +251,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
 - [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 - [squape](https://github.com/CyberAlpaca/squish-api-python-extension) - is a package that extends Squish API providing convenience tools for everyday automated test cases development.
+- [wopee.rf](https://docs.wopee.io/robot-framework/) - Visual regression testing library for Robot Framework with AI-powered autonomous test maintenance.
 
 ## Resources
 
@@ -258,7 +259,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [Anna-Lena Popkes: "Mocking in Python"](https://alpopkes.com/posts/python/mocking/) - Mocking might seem confusing in the beginning but once you understand the basics it can be very helpful.
 - [async test patterns for Pytest](https://tonybaloney.github.io/posts/async-test-patterns-for-pytest-and-unittest.html) - Learn some handy async examples and patterns for testing in Pytest.
-- [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
+- [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest](https://semaphore.io/blog/property-based-testing-python-hypothesis-pytest)
 - [How not to footgun yourself when writing tests](https://www.marwansarieddine.com/posts/flaky_tests) - a showcase of flaky tests
 - [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
 - [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
