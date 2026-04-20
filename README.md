@@ -125,6 +125,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Mutmut](https://github.com/boxed/mutmut) - is a mutation testing system for Python, with a strong focus on ease of use.
 - [MutPy](https://github.com/mutpy/mutpy) - MutPy is a mutation testing tool for Python 3.x source code
 - [xmutant.py](https://github.com/vrthra/xmutant.py) - Python 3.6 bytecode based mutation analysis framework
+- [bough](https://github.com/CodeEnPlace/bough) - Bough is a polyglot incremental mutation tester
 
 ## Object Factories
 
