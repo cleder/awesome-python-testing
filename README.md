@@ -215,6 +215,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
 - [Sphinx-testify](https://github.com/BasicWolf/sphinx-testify) - Testified documentation means that the documentation source references test results, and these references are verified during the build process. As a result, we can keep every paragraph even every sentence of the documentation aligned with the code, as long as there is a test that "testifies" the described behaviour.
 - [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
+- [tryke](https://github.com/thejchap/tryke) - A Rust-based Python test runner with a Jest-style API
 - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 - [vedro](https://github.com/vedro-universe/vedro) - Pragmatic testing framework for Python
 - [Ward](https://github.com/darrenburns/ward) - is a modern test framework for Python with a focus on productivity and readability.
