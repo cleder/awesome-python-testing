@@ -18,6 +18,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Object Factories](#object-factories)
 - [Penetration Testing](#penetration-testing)
 - [Property Based Testing](#property-based-testing)
+- [Reporting](#reporting)
 - [Rest API Testing](#rest-api-testing)
 - [Snapshot Tests](#snapshot-tests)
 - [Speed](#speed)
@@ -120,12 +121,12 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Mutation Testing
 
+- [bough](https://github.com/CodeEnPlace/bough) - Bough is a polyglot incremental mutation tester.
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - makes small changes to your source code, running your test suite for each one.
 - [Mutatest](https://github.com/EvanKepner/mutatest) - Python mutation testing.
 - [Mutmut](https://github.com/boxed/mutmut) - is a mutation testing system for Python, with a strong focus on ease of use.
 - [MutPy](https://github.com/mutpy/mutpy) - MutPy is a mutation testing tool for Python 3.x source code
 - [xmutant.py](https://github.com/vrthra/xmutant.py) - Python 3.6 bytecode based mutation analysis framework
-- [bough](https://github.com/CodeEnPlace/bough) - Bough is a polyglot incremental mutation tester
 
 ## Object Factories
 
@@ -148,6 +149,10 @@ Collection of awesome Python resources for testing and generating test data.
 - [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto/) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions.
 - [hypothesis-crosshair](https://github.com/pschanely/hypothesis-crosshair) - Add the power of solver-based symbolic execution to your Hypothesis tests with CrossHair.
 - [icontract-hypothesis](https://github.com/mristin/icontract-hypothesis) - Instead of writing manually the Hypothesis search strategies for a function, `icontract-hypothesis` infers them based on the function's precondition.
+
+## Reporting
+
+- [pytest-html-plus](https://github.com/reporterplus/pytest-html-plus) - Get a self-contained, actionable, easy-to-read single page HTML unified reports summarizing all your test results. Detect flaky tests.
 
 ## Rest API Testing
 
@@ -261,7 +266,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [Anna-Lena Popkes: "Mocking in Python"](https://alpopkes.com/posts/python/mocking/) - Mocking might seem confusing in the beginning but once you understand the basics it can be very helpful.
 - [async test patterns for Pytest](https://tonybaloney.github.io/posts/async-test-patterns-for-pytest-and-unittest.html) - Learn some handy async examples and patterns for testing in Pytest.
-- [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
+- [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest](https://semaphore.io/blog/property-based-testing-python-hypothesis-pytest)
 - [How not to footgun yourself when writing tests](https://www.marwansarieddine.com/posts/flaky_tests) - a showcase of flaky tests
 - [Stargirl Flowers: “My Python testing style guide”](https://blog.thea.codes/my-python-testing-style-guide) - An attempt to catalog some practices around testing Python projects. It's not meant to be treated as dogma.
 - [Test & Code: Python Testing](https://testandcode.com/) - Test & Code is a weekly podcast hosted by Brian Okken. The show covers a wide array of topics including software engineering, development, testing, Python programming, and many related topics.
