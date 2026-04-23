@@ -20,6 +20,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Property Based Testing](#property-based-testing)
 - [Reporting](#reporting)
 - [Rest API Testing](#rest-api-testing)
+- [Retrying Tests](#retrying-tests)
 - [Snapshot Tests](#snapshot-tests)
 - [Speed](#speed)
 - [Static Checks](#static-checks)
@@ -167,6 +168,12 @@ Collection of awesome Python resources for testing and generating test data.
 - [Tavern](https://github.com/taverntesting/tavern) - is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
 - [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 
+## Retrying Tests
+
+- [pytest-check](https://github.com/okken/pytest-check) - A pytest plugin that allows multiple failed assertions per test function, so you can see the whole picture of what's going wrong.
+- [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - A pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures.
+- [pytest-retry](https://github.com/str0zzapreti/pytest-retry) - A simple plugin for retrying flaky tests in CI environments.
+
 ## Snapshot Tests
 
 - [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - work by comparing the test results to a golden master.
@@ -297,6 +304,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ### Related
 
+- [Awesome PyTest](https://github.com/augustogoulart/awesome-pytest) - Focused on pytest.
 - [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md#testing) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [Python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) - A comprehensive curated list of python test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on python.
 - [commit-check](https://github.com/commit-check/commit-check) - Check commit message formatting, branch naming, commit author, email, and more.
