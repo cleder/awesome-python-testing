@@ -266,6 +266,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
 - [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 - [squape](https://github.com/CyberAlpaca/squish-api-python-extension) - is a package that extends Squish API providing convenience tools for everyday automated test cases development.
+- [HMNextAuto](https://github.com/ziguiway/hmnextauto) - Python-based UI automation framework for HarmonyOS NEXT. API compatible with uiautomator2, supports XPath, image recognition, performance monitoring and notification management.
 
 ## Resources
 
