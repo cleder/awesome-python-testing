@@ -223,9 +223,10 @@ Collection of awesome Python resources for testing and generating test data.
 - [perftester](https://github.com/nyggus/perftester) - A lightweight framework for performance testing of Python functions; allows for testing of performance in terms of execution time and memory usage.
 - [promptimize](https://github.com/preset-io/promptimize) - a prompt engineering evaluation and testing toolkit. It accelerates and provides structure around prompt engineering at scale with confidence, bringing some of the ideas behind test-driven development (TDD) to engineering prompts.
 - [pytest](https://docs.pytest.org/en/latest) - A mature full-featured Python testing tool.
-- [sundew](https://github.com/devenjarvis/sundew/) - Sundew is a testing framework for Python, implementing a new approach to testing. One that combines functional programming concepts and the general best practices for writing tests that we already know, and enforces them in a way that enables some really powerful features that make testing easier, enjoyable, and more effective.
+- [rut](https://github.com/schettino72/rut) - A modern and fully-featured test runner for Python's unittest framework (not `pytest`), with simplicity as a core design goal.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
 - [Sphinx-testify](https://github.com/BasicWolf/sphinx-testify) - Testified documentation means that the documentation source references test results, and these references are verified during the build process. As a result, we can keep every paragraph even every sentence of the documentation aligned with the code, as long as there is a test that "testifies" the described behaviour.
+- [sundew](https://github.com/devenjarvis/sundew/) - Sundew is a testing framework for Python, implementing a new approach to testing. One that combines functional programming concepts and the general best practices for writing tests that we already know, and enforces them in a way that enables some really powerful features that make testing easier, enjoyable, and more effective.
 - [testbook](https://github.com/nteract/testbook) - A unit testing framework extension for testing code in Jupyter Notebooks.
 - [tryke](https://github.com/thejchap/tryke) - A Rust-based Python test runner with a Jest-style API
 - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
@@ -235,7 +236,6 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Tools
 
-- [Auger](https://github.com/laffra/auger) - Project to automatically generate unit tests for Python code.
 - [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
 - [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test.
 - [importlab](https://github.com/google/importlab) - A library that automatically infers dependencies for Python files. Importlab's main use case is to work with static analysis tools that process one file at a time, ensuring that a file's dependencies are analysed before it is.
