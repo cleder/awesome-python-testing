@@ -187,6 +187,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Django-Mercury-Performance-Testing](https://github.com/smattymatty/Django-Mercury-Performance-Testing) - Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more!
 - [Partial Testing](https://github.com/man-group/partialtesting) - Run only the tests that are relevant for your changes.
 - [Pytest-incremental](https://github.com/pytest-dev/pytest-incremental) - analyses your project structure and file modifications between test-runs to modify the order tests are executed and de-select tests.
+- [pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run only tests from modified test files, or run tests from modified test files first, followed by all unmodified tests
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continuous test runner when used with pytest-watch.
 - [Awesome pytest speedup](https://github.com/zupo/awesome-pytest-speedup) - A checklist of best practices to speed up your pytest suite.
 
@@ -243,7 +244,6 @@ Collection of awesome Python resources for testing and generating test data.
 - [logot](https://github.com/etianen/logot) - Test whether your code is logging correctly.
 - [Pifpaf](https://github.com/jd/pifpaf) - A suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
 - [Pynguin](https://github.com/se2p/pynguin) - A tool that allows developers to generate unit tests automatically.
-- [pytest-codegen](https://github.com/jeremyschiemann/pytest-codegen) - Pytest-codegen will statically analyze your code to create pytest function stubs.
 - [pytest-databases](https://github.com/litestar-org/pytest-databases) - Reusable database fixtures for any and all databases.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
