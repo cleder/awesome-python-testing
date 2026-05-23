@@ -248,8 +248,8 @@ Collection of awesome Python resources for testing and generating test data.
 - [pytest-databases](https://github.com/litestar-org/pytest-databases) - Reusable database fixtures for any and all databases.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
-- [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
 - [pytest-test-observer](https://github.com/shakhov-dmitrii/pytest-test-observer) - A pytest plugin that ships per-test results to ClickHouse for trend analysis, flakiness tracking, and CI observability.
+- [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
 
 ## UI Testing
 
