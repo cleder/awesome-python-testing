@@ -164,6 +164,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [hypothesis-graphql](https://github.com/Stranger6667/hypothesis-graphql) - Hypothesis strategies for GraphQL schemas, queries and data.
 - [Schemathesis](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
 - [playback](https://github.com/Optibus/playback) - A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).
+- [postman2pytest](https://github.com/golikovichev/postman2pytest) - Convert a Postman Collection v2.1 JSON file into a runnable pytest test suite with one command. Supports environment variable substitution, folder filtering, and stress-test generation.
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [Tavern](https://github.com/taverntesting/tavern) - is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
 - [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
