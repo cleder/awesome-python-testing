@@ -89,6 +89,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Grizzly](https://github.com/biometria-se/grizzly) - is a framework to be able to easily define load scenarios, and is mainly built on-top of Locust and Behave.
 - [Locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 - [pynonymizer](https://github.com/jerometwell/pynonymizer) - is a universal tool for translating sensitive production database dumps into anonymized copies.
+- [pywrkr](https://github.com/kurok/pywrkr) - HTTP benchmarking CLI inspired by wrk and ApacheBench (ab), with latency percentiles, virtual-user simulation, constant-rate and traffic-profile load shaping, HAR import, and pass/fail SLO thresholds for CI.
 
 ## Memory Management
 
