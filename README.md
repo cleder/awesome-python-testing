@@ -154,6 +154,8 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Reporting
 
+- [pytest-cloudreport](https://github.com/ahmad212o/pytest-cloudreport) - A pytest plugin that automatically detects flaky tests, tracks CI stability over time, and generates a self-contained HTML report with an optional cloud dashboard for team visibility.
+
 - [pytest-html-plus](https://github.com/reporterplus/pytest-html-plus) - Get a self-contained, actionable, easy-to-read single page HTML unified reports summarizing all your test results. Detect flaky tests.
 
 ## Rest API Testing
