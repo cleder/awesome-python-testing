@@ -125,6 +125,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [bough](https://github.com/CodeEnPlace/bough) - Bough is a polyglot incremental mutation tester.
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - makes small changes to your source code, running your test suite for each one.
+- [Crucible](https://github.com/Jott2121/crucible) - Adversarial test-hardening for AI-written code, built on mutmut. A Tester agent writes tests, mutation testing names the survivors, and a Critic agent kills exactly those.
 - [Mutatest](https://github.com/EvanKepner/mutatest) - Python mutation testing.
 - [Mutmut](https://github.com/boxed/mutmut) - is a mutation testing system for Python, with a strong focus on ease of use.
 - [MutPy](https://github.com/mutpy/mutpy) - MutPy is a mutation testing tool for Python 3.x source code
