@@ -80,6 +80,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## LLM & MCP Testing
 
 - [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
+- [Sabot](https://github.com/Jott2121/sabot) - Plants controlled faults inside running multi-agent pipelines (LangGraph, CrewAI, AutoGen) and scores whether each pipeline's own reviewer and guardrail stages detect them. Pre-registered spec, deterministic adjudication, published raw traces.
 - [Tenro](https://github.com/tenro-ai/tenro-python) - An open-source, provider-agnostic testing framework for AI agents that integrates with pytest. It simulates LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
 
 ## Load Testing
