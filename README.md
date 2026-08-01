@@ -271,8 +271,8 @@ Collection of awesome Python resources for testing and generating test data.
 - [LuluTest](https://github.com/erik-whiting/LuluTest) - is an open source browser automation framework using Python and Selenium.
 - [pomcorn](https://github.com/saritasa-nest/pomcorn) - is an open source Python package that contains base classes to create systems based on Selenium framework and Page Object Model pattern
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - is a cross-platform GUI automation Python module for human beings.
-- [QualityMax](https://qualitymax.io/) - AI QA platform that generates and executes pytest and Playwright tests, with self-healing UI automation and CI/CD gates.
 - [pytest-ui-automatic](https://github.com/moyu6027/pytest-ui-automatic) - Playwright Python tool practice pytest pytest-bdd screen-play page-object allure cucumber-report.
+- [QualityMax](https://qualitymax.io/) - AI QA platform that generates and executes pytest and Playwright tests, with self-healing UI automation and CI/CD gates.
 - [selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python (Selenide port).
 - [Selenium](https://pypi.org/project/selenium) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
 - [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - is an all-in-one Python framework for automated browser testing. Tests are run with "pytest", and use WebDriver APIs for web-page interaction.
