@@ -232,6 +232,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [promptimize](https://github.com/preset-io/promptimize) - a prompt engineering evaluation and testing toolkit. It accelerates and provides structure around prompt engineering at scale with confidence, bringing some of the ideas behind test-driven development (TDD) to engineering prompts.
 - [pytest](https://docs.pytest.org/en/latest) - A mature full-featured Python testing tool.
 - [pytest-conversational](https://github.com/golikovichev/pytest-conversational) - A pytest plugin for testing rule-based chatbots and conversational UIs through multi-turn dialogue assertions, with no LLM dependency.
+- [pytest-django](https://github.com/pytest-dev/pytest-django) - A pytest plugin for Django applications.
 - [rut](https://github.com/schettino72/rut) - A modern and fully-featured test runner for Python's unittest framework (not `pytest`), with simplicity as a core design goal.
 - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
 - [Sphinx-testify](https://github.com/BasicWolf/sphinx-testify) - Testified documentation means that the documentation source references test results, and these references are verified during the build process. As a result, we can keep every paragraph even every sentence of the documentation aligned with the code, as long as there is a test that "testifies" the described behaviour.
