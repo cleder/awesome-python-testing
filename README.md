@@ -260,6 +260,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [pytest-test-observer](https://github.com/shakhov-dmitrii/pytest-test-observer) - A pytest plugin that ships per-test results to ClickHouse for trend analysis, flakiness tracking, and CI observability.
 - [secure-log2test](https://github.com/golikovichev/secure-log2test) - A CLI tool that converts Kibana JSON log exports into runnable pytest regression suites, with Pydantic-based redaction of authorization headers and other secrets at parse time.
 - [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
+- [ttsproof](https://github.com/Mormolykos/ttsproof) - Automated failure-mode QA for text-to-speech systems. Structural audio checks, equivalence-aware WER/CER, and ASR-uncertainty quarantine so transcription noise is not reported as a synthesis defect.
 
 ## UI Testing
 
