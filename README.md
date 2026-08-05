@@ -258,6 +258,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
 - [pytest-test-observer](https://github.com/shakhov-dmitrii/pytest-test-observer) - A pytest plugin that ships per-test results to ClickHouse for trend analysis, flakiness tracking, and CI observability.
+- [quick-gate-python](https://github.com/hermes-labs-ai/quick-gate-python) - A deterministic CI quality gate that normalizes Ruff, Pyright, and pytest results into one fail-fast decision, attempts bounded auto-repair, and escalates with machine-readable evidence when it can't finish safely. PyPI: `pygate-ci`.
 - [secure-log2test](https://github.com/golikovichev/secure-log2test) - A CLI tool that converts Kibana JSON log exports into runnable pytest regression suites, with Pydantic-based redaction of authorization headers and other secrets at parse time.
 - [teyit](https://github.com/isidentical/teyit) - A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.
 - [ttsproof](https://github.com/Mormolykos/ttsproof) - Automated failure-mode QA for text-to-speech systems. Structural audio checks, equivalence-aware WER/CER, and ASR-uncertainty quarantine so transcription noise is not reported as a synthesis defect.
