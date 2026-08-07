@@ -118,6 +118,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [moto](https://github.com/spulec/moto) - allows you to easily mock out tests based on AWS infrastructure.
 - [Pretend](https://github.com/alex/pretend) - is a library to make stubbing with Python easier.
 - [pyfakefs](https://github.com/pytest-dev/pyfakefs) - A fake file system that mocks the Python file system modules.
+- [pytest-tripwire](https://github.com/axiomantic/pytest-tripwire) - Pytest plugin for full-certainty test mocking, every recorded interaction must be explicitly asserted.
 - [responses](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
 - [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
 - [trustme](https://github.com/python-trio/trustme) - gives you a fake certificate authority (CA) that you can use to generate fake TLS certs to use in your tests.
@@ -172,7 +173,6 @@ Collection of awesome Python resources for testing and generating test data.
 - [postman2pytest](https://github.com/golikovichev/postman2pytest) - A CLI tool to convert Postman Collection v2.1 JSON files into runnable pytest suites, supporting environment variable substitution, folder filtering, and stress-test generation.
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [Tavern](https://github.com/taverntesting/tavern) - is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
-- [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 
 ## Retrying Tests
 
@@ -318,6 +318,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ### Related
 
+- [Awesome Mutation testing](https://github.com/theofidry/awesome-mutation-testing) - Mutation testing resources: how to make better code by introducing bugs
 - [Awesome PyTest](https://github.com/augustogoulart/awesome-pytest) - Focused on pytest.
 - [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md#testing) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [Python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) - A comprehensive curated list of python test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on python.
