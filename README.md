@@ -158,7 +158,6 @@ Collection of awesome Python resources for testing and generating test data.
 ## Reporting
 
 - [pytest-cloudreport](https://github.com/ahmad212o/pytest-cloudreport) - A pytest plugin that automatically detects flaky tests, tracks CI stability over time, and generates a self-contained HTML report with an optional cloud dashboard for team visibility.
-
 - [pytest-html-plus](https://github.com/reporterplus/pytest-html-plus) - Get a self-contained, actionable, easy-to-read single page HTML unified reports summarizing all your test results. Detect flaky tests.
 
 ## Rest API Testing
@@ -177,6 +176,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Retrying Tests
 
 - [pytest-check](https://github.com/okken/pytest-check) - A pytest plugin that allows multiple failed assertions per test function, so you can see the whole picture of what's going wrong.
+- [pytest-leak-finder](https://github.com/mgaitan/pytest-leak-finder) - You have a test that passes when executed alone but fails when running its suite. What's happening? My two cents that some previous test keeps the things dirty. But which one/s, maybe the previous are a lot, right?
 - [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - A pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures.
 - [pytest-retry](https://github.com/str0zzapreti/pytest-retry) - A simple plugin for retrying flaky tests in CI environments.
 
@@ -263,6 +263,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## UI Testing
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. `agent-qa` learns from every run, adapts to UI changes, and catches regressions before you ship.
 - [aria-testing](https://github.com/t-strings/aria-testing) - Accessibility-focused DOM testing library for tdom, built with modern Python 3.14+.
 - [Flybirds](https://github.com/ctripcorp/flybirds) - is a front-end UI automation test framework based on BDD mode, providing a series of out-of-the-box tools and complete documentation.
 - [Golem](https://github.com/golemhq/golem) - is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.
