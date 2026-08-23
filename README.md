@@ -263,7 +263,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## UI Testing
 
-- [agent-qa](https://github.com/vostride/agent-qa) - Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. `agent-qa` learns from every run, adapts to UI changes, and catches regressions before you ship.
+- [Agent QA](https://github.com/vostride/agent-qa) - A Node-based, open-source, self-improving QA agent that can exercise Python web applications externally through natural-language browser tests, persistent testing context, and self-healing tests.
 - [aria-testing](https://github.com/t-strings/aria-testing) - Accessibility-focused DOM testing library for tdom, built with modern Python 3.14+.
 - [Flybirds](https://github.com/ctripcorp/flybirds) - is a front-end UI automation test framework based on BDD mode, providing a series of out-of-the-box tools and complete documentation.
 - [Golem](https://github.com/golemhq/golem) - is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.
