@@ -158,7 +158,6 @@ Collection of awesome Python resources for testing and generating test data.
 ## Reporting
 
 - [pytest-cloudreport](https://github.com/ahmad212o/pytest-cloudreport) - A pytest plugin that automatically detects flaky tests, tracks CI stability over time, and generates a self-contained HTML report with an optional cloud dashboard for team visibility.
-
 - [pytest-html-plus](https://github.com/reporterplus/pytest-html-plus) - Get a self-contained, actionable, easy-to-read single page HTML unified reports summarizing all your test results. Detect flaky tests.
 
 ## Rest API Testing
@@ -177,6 +176,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Retrying Tests
 
 - [pytest-check](https://github.com/okken/pytest-check) - A pytest plugin that allows multiple failed assertions per test function, so you can see the whole picture of what's going wrong.
+- [pytest-leak-finder](https://github.com/mgaitan/pytest-leak-finder) - You have a test that passes when executed alone but fails when running its suite. What's happening? My two cents that some previous test keeps the things dirty. But which one/s, maybe the previous are a lot, right?
 - [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - A pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures.
 - [pytest-retry](https://github.com/str0zzapreti/pytest-retry) - A simple plugin for retrying flaky tests in CI environments.
 
@@ -191,8 +191,6 @@ Collection of awesome Python resources for testing and generating test data.
 ## Speed
 
 - [Django-Mercury-Performance-Testing](https://github.com/smattymatty/Django-Mercury-Performance-Testing) - Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more!
-- [Partial Testing](https://github.com/man-group/partialtesting) - Run only the tests that are relevant for your changes.
-- [Pytest-incremental](https://github.com/pytest-dev/pytest-incremental) - analyses your project structure and file modifications between test-runs to modify the order tests are executed and de-select tests.
 - [pytest-deltatest](https://github.com/deltatest-org/pytest-deltatest) - Run only the tests affected by your code changes using SQLite-based coverage mappings, optimized for local pre-commit workflows.
 - [pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run only tests from modified test files, or run tests from modified test files first, followed by all unmodified tests
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continuous test runner when used with pytest-watch.
