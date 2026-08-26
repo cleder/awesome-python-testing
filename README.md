@@ -54,6 +54,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Coverage.py](https://github.com/nedbat/coveragepy) - is a tool for measuring code coverage of Python programs.
 - [coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) - Conditional coverage based on any rules you define.
 - [diff_cover](https://github.com/Bachmann1234/diff_cover) - Automatically find diff lines that need test coverage.
+- [slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage.
 
 ## Design by Contract
 
@@ -176,6 +177,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Retrying Tests
 
 - [pytest-check](https://github.com/okken/pytest-check) - A pytest plugin that allows multiple failed assertions per test function, so you can see the whole picture of what's going wrong.
+- [pytest-cleanslate](https://github.com/plasma-umass/pytest-cleanslate) - work around or find test state pollution by giving each test module a "clean slate" to execute.
 - [pytest-leak-finder](https://github.com/mgaitan/pytest-leak-finder) - You have a test that passes when executed alone but fails when running its suite. What's happening? My two cents that some previous test keeps the things dirty. But which one/s, maybe the previous are a lot, right?
 - [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - A pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures.
 - [pytest-retry](https://github.com/str0zzapreti/pytest-retry) - A simple plugin for retrying flaky tests in CI environments.
