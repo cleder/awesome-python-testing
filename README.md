@@ -282,6 +282,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
 - [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 - [squape](https://github.com/CyberAlpaca/squish-api-python-extension) - is a package that extends Squish API providing convenience tools for everyday automated test cases development.
+- [Testudos](https://testudos.io/) - UI and integration test automation for Qt applications with Python extensibility, scenario recording, direct access to Qt object properties, CLI execution, embedded target support, and traceable test reporting.
 
 ## Resources
 
