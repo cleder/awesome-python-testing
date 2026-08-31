@@ -265,6 +265,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## UI Testing
 
+- [9lives](https://github.com/Quality-Max/9lives) - Self-healing CLI for UI tests: runs a failing pytest + Selenium spec, repairs the drifted locator offline, re-runs it, and shows a diff before applying. Refuses to rewrite assertions, so real regressions stay visible.
 - [Agent QA](https://github.com/vostride/agent-qa) - A Node-based, open-source, self-improving QA agent that can exercise Python web applications externally through natural-language browser tests, persistent testing context, and self-healing tests.
 - [aria-testing](https://github.com/t-strings/aria-testing) - Accessibility-focused DOM testing library for tdom, built with modern Python 3.14+.
 - [Flybirds](https://github.com/ctripcorp/flybirds) - is a front-end UI automation test framework based on BDD mode, providing a series of out-of-the-box tools and complete documentation.
