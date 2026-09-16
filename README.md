@@ -80,6 +80,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## LLM & MCP Testing
 
+- [agent-convergence-scorer](https://github.com/hermes-labs-ai/agent-convergence-scorer) - A CLI and Python library that scores how lexically similar N agent or LLM outputs are: exact-match rate, Jaccard token overlap, divergence point, and a composite convergence score over any list of runs. An eval primitive for measuring reproducibility and fan-out collapse. Zero deps.
 - [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a Python agent's calls to its model provider from outside the process, then serves the recording back so the same run happens again with the provider unreachable and no key. Turns a failed session into a regression test. Apache-2.0.
 - [Sabot](https://github.com/Jott2121/sabot) - Plants controlled faults inside running multi-agent pipelines (LangGraph, CrewAI, AutoGen) and scores whether each pipeline's own reviewer and guardrail stages detect them. Pre-registered spec, deterministic adjudication, published raw traces.
