@@ -230,6 +230,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [doctest](https://docs.python.org/3/library/doctest.html) - (Python standard library) The doctest module searches for pieces of text that look like interactive Python sessions, and then executes those sessions to verify that they work exactly as shown.
 - [hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest.
 - [maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
+- [mdoctest](https://github.com/ingrid-owusu/mdoctest) - Doctest for Markdown in any language: runs the console sessions and code blocks in your README/docs, verifies their output still matches, and rewrites them in place with `--fix`. Zero dependencies; ships as a pre-commit hook and a GitHub Action.
 - [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2`.
 - [perftester](https://github.com/nyggus/perftester) - A lightweight framework for performance testing of Python functions; allows for testing of performance in terms of execution time and memory usage.
 - [promptimize](https://github.com/preset-io/promptimize) - a prompt engineering evaluation and testing toolkit. It accelerates and provides structure around prompt engineering at scale with confidence, bringing some of the ideas behind test-driven development (TDD) to engineering prompts.
