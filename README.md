@@ -176,6 +176,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [postman2pytest](https://github.com/golikovichev/postman2pytest) - A CLI tool to convert Postman Collection v2.1 JSON files into runnable pytest suites, supporting environment variable substitution, folder filtering, and stress-test generation.
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [Tavern](https://github.com/taverntesting/tavern) - is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
+- [DriftWire](https://github.com/Haswell119/driftwire) - Detect API contract drift: validate a live API against its OpenAPI spec, or diff two spec versions for breaking changes.
 
 ## Retrying Tests
 
