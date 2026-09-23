@@ -252,6 +252,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Tools
 
 - [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
+- [csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) - A Python CLI that checks CSV test datasets and pipeline inputs for missing columns, empty cells, and duplicate rows, with configurable rules and CI exit codes.
 - [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test.
 - [greenproof](https://github.com/zxyasfas/greenproof) - Checks whether a coding agent's green pytest run was earned, not manufactured by editing the tests. Snapshots the original tests, then reruns the agent's current code against them to see if it still passes.
 - [importlab](https://github.com/google/importlab) - A library that automatically infers dependencies for Python files. Importlab's main use case is to work with static analysis tools that process one file at a time, ensuring that a file's dependencies are analysed before it is.
