@@ -55,6 +55,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) - Conditional coverage based on any rules you define.
 - [diff_cover](https://github.com/Bachmann1234/diff_cover) - Automatically find diff lines that need test coverage.
 - [slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage.
+- [supercov](https://github.com/supercorp-ai/supercov) - Python coverage, security and code quality for coding agents.
 
 ## Design by Contract
 
