@@ -69,6 +69,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [fake2db](https://github.com/emirozer/fake2db) - Fake database generator.
 - [genuine-fake](https://github.com/xeroxzen/genuine-fake) - Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.
 - [mimesis](https://github.com/lk-geimfari/mimesis) - A Python library that helps you generate fake data.
+- [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Checksum-valid financial and identity test data generator (IBAN MOD-97, Luhn cards, TCKN, ISIN, BIC/SWIFT) - unlike format-only fakers, every value passes real validation.
 - [radar](https://pypi.org/project/radar) - Generate random datetime / time.
 
 ## Fixtures
