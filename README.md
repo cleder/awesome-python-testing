@@ -255,6 +255,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) - A Python CLI that checks CSV test datasets and pipeline inputs for missing columns, empty cells, and duplicate rows, with configurable rules and CI exit codes.
 - [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test.
 - [greenproof](https://github.com/zxyasfas/greenproof) - Checks whether a coding agent's green pytest run was earned, not manufactured by editing the tests. Snapshots the original tests, then reruns the agent's current code against them to see if it still passes.
+- [import-effects](https://github.com/royalpinto007/import-effects) - Runs one import in a fresh child interpreter and reports import-time side effects (file writes, sockets, subprocesses, threads, env changes).
 - [importlab](https://github.com/google/importlab) - A library that automatically infers dependencies for Python files. Importlab's main use case is to work with static analysis tools that process one file at a time, ensuring that a file's dependencies are analysed before it is.
 - [Klara](https://github.com/usagitoneko97/klara) - Static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system.
 - [logot](https://github.com/etianen/logot) - Test whether your code is logging correctly.
