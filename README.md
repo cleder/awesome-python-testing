@@ -118,6 +118,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Mockafka](https://github.com/alm0ra/mockafka-py) - Python library designed for mocking Kafka in a testing environment. It simplifies testing Kafka-integrated applications by providing an in-memory mock for aiokafka and confluent-kafka-python.
 - [mocket](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
 - [Mockintosh](https://github.com/up9inc/mockintosh) - aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications.
+- [MockRelay](https://github.com/sswivell/mock-relay) - Local HTTP proxy that records real API traffic to JSON fixtures and replays them offline with ranked fixture matching.
 - [moto](https://github.com/spulec/moto) - allows you to easily mock out tests based on AWS infrastructure.
 - [Pretend](https://github.com/alex/pretend) - is a library to make stubbing with Python easier.
 - [pyfakefs](https://github.com/pytest-dev/pyfakefs) - A fake file system that mocks the Python file system modules.
