@@ -128,6 +128,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Mutation Testing
 
+- [AdversaryGate](https://github.com/Sanflow10/adversary-gate) - Merge gate for AI-written patches: runs the tests on the baseline and on the patch, mutates only the lines the patch wrote, and answers MERGE, BLOCK or INCONCLUSIVE. Missing coverage or too few killed mutants is INCONCLUSIVE, never a pass. On PyPI as `adversary-gate`.
 - [bough](https://github.com/CodeEnPlace/bough) - Bough is a polyglot incremental mutation tester.
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - makes small changes to your source code, running your test suite for each one.
 - [Crucible](https://github.com/Jott2121/crucible) - Adversarial test-hardening for AI-written code, built on mutmut. A Tester agent writes tests, mutation testing names the survivors, and a Critic agent kills exactly those.
