@@ -215,6 +215,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors.
 - [Pylint](https://github.com/PyCQA/pylint) - A Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
 - [Refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases.
+- [repro-lens](https://github.com/00200200/repro-lens) - Static ML reproducibility and determinism audit tool for Python codebases, verifying random seed flows, data loading invariants, and deterministic test replay.
 - [ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [slotscheck](https://github.com/ariebovenberg/slotscheck) - Find mistakes in your `__slots__` definitions.
 - [Typecheckers](https://github.com/ethanhs/python-typecheckers) - A list of Python type checkers.
