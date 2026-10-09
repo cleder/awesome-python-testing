@@ -114,6 +114,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
 - [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
 - [httpretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
+- [Keploy](https://github.com/keploy/keploy) - record & replay API traffic as tests with auto-generated dependency mocks in isolated sandboxes.
 - [Kesha](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks.
 - [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
 - [Mockafka](https://github.com/alm0ra/mockafka-py) - Python library designed for mocking Kafka in a testing environment. It simplifies testing Kafka-integrated applications by providing an in-memory mock for aiokafka and confluent-kafka-python.
