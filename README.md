@@ -267,6 +267,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [pytest-databases](https://github.com/litestar-org/pytest-databases) - Reusable database fixtures for any and all databases.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for `mock_autogen`.
+- [pytest-queryguard](https://github.com/MaciejZiel/pytest-queryguard) - A pytest plugin that fails tests with N+1 queries and enforces query budgets for SQLAlchemy 2, in sync, async and FastAPI code.
 - [pytest-test-observer](https://github.com/shakhov-dmitrii/pytest-test-observer) - A pytest plugin that ships per-test results to ClickHouse for trend analysis, flakiness tracking, and CI observability.
 - [quick-gate-python](https://github.com/hermes-labs-ai/quick-gate-python) - A deterministic CI quality gate that normalizes Ruff, Pyright, and pytest results into one fail-fast decision, attempts bounded auto-repair, and escalates with machine-readable evidence when it can't finish safely. PyPI: `pygate-ci`.
 - [secure-log2test](https://github.com/golikovichev/secure-log2test) - A CLI tool that converts Kibana JSON log exports into runnable pytest regression suites, with Pydantic-based redaction of authorization headers and other secrets at parse time.
