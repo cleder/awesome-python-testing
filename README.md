@@ -86,6 +86,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a Python agent's calls to its model provider from outside the process, then serves the recording back so the same run happens again with the provider unreachable and no key. Turns a failed session into a regression test. Apache-2.0.
 - [Sabot](https://github.com/Jott2121/sabot) - Plants controlled faults inside running multi-agent pipelines (LangGraph, CrewAI, AutoGen) and scores whether each pipeline's own reviewer and guardrail stages detect them. Pre-registered spec, deterministic adjudication, published raw traces.
 - [Tenro](https://github.com/tenro-ai/tenro-python) - An open-source, provider-agnostic testing framework for AI agents that integrates with pytest. It simulates LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
+- [wiretruth](https://github.com/Plexito-de/wiretruth) - Test suite for Python LLM telemetry libraries such as OpenLLMetry and OpenInference. A local fake provider serves OpenAI and Anthropic responses, including streams, prompt-cache hits, 429s and dropped connections, and wiretruth checks the token counts, models and errors on the resulting spans, and whether each span ends, against what was sent. Apache-2.0.
 
 ## Load Testing
 
