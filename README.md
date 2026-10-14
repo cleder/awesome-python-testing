@@ -139,6 +139,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Mutatest](https://github.com/EvanKepner/mutatest) - Python mutation testing.
 - [Mutmut](https://github.com/boxed/mutmut) - is a mutation testing system for Python, with a strong focus on ease of use.
 - [MutPy](https://github.com/mutpy/mutpy) - MutPy is a mutation testing tool for Python 3.x source code
+- [Receipts](https://github.com/syntaxixr/receipts) - Reruns every test a change adds or edits with the changed source reverted to the base branch, and reports whether each test fails without the change or passes both ways. Runs pytest, vitest and jest, and ships as a GitHub Action, a CLI and a Claude Code plugin.
 - [xmutant.py](https://github.com/vrthra/xmutant.py) - Python 3.6 bytecode based mutation analysis framework
 
 ## Object Factories
