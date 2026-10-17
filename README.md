@@ -166,6 +166,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Reporting
 
+- [curlify3](https://github.com/shpaker/curlify3) - Turns HTTP requests from requests, httpx and other Python clients into ready-to-run curl commands for debugging. Ships a pytest plugin that attaches them to the reports of failing tests and a Robot Framework library that writes them to the test log.
 - [pytest-cloudreport](https://github.com/ahmad212o/pytest-cloudreport) - A pytest plugin that automatically detects flaky tests, tracks CI stability over time, and generates a self-contained HTML report with an optional cloud dashboard for team visibility.
 - [pytest-html-plus](https://github.com/reporterplus/pytest-html-plus) - Get a self-contained, actionable, easy-to-read single page HTML unified reports summarizing all your test results. Detect flaky tests.
 
