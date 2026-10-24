@@ -197,6 +197,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 - [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) - work by comparing the test results to a golden master.
 - [inline-snapshot](https://github.com/15r10nk/inline-snapshot/) - a pytest plugin that boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.
+- [nightward](https://github.com/LunenLabs/nightward) - a pytest plugin and CLI that captures behavior as JSON snapshots, has a human approve them once, and then fails the gate on any change (for example one made by an AI coding agent) until a human approves it. Lists every moved behavior grouped by feature. MIT.
 - [SnapshotTest](https://github.com/syrusakbary/snapshottest) - is a way to test your APIs without writing actual test cases.
 - [syrupy](https://github.com/tophat/syrupy) - is a zero-dependency pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
 - [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
