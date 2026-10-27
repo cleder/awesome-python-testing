@@ -316,6 +316,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Patterns of flakey Python tests](https://tech.octopus.energy/news/2022/05/23/flakey-python-tests.html) - This post details several patterns that cause flakey Python tests. Being aware of these common causes can help when investigating your own flakey tests.
 - [Unit testing Python code in Jupyter notebooks](https://www.wrighters.io/unit-testing-python-code-in-jupyter-notebooks) - This article covers several options for unit testing Python code in a Jupyter notebook.
 - [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - These software engineering rules and testing best practices might help save you time and headaches.
+- [White Box Testing: Techniques, Examples & Best Practices](https://keploy.io/blog/community/white-box-testing) - Statement, branch, path and condition coverage explained with pytest examples, measured with pytest-cov, plus coverage thresholds in CI.
 
 ### Books
 
