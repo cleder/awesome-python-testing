@@ -4,3 +4,5 @@ extend-ignore-identifiers-re = ["mis", "Packt"]
 [default.extend-words]
 # "wrk" (github.com/wg/wrk) is a tool name, not a typo for "work"
 wrk = "wrk"
+# "maily" (github.com/stormsia/maily) is a tool name, not a typo for "mainly"
+maily = "maily"

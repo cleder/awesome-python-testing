@@ -178,6 +178,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [Dredd](https://github.com/apiaryio/dredd) - is a language-agnostic command-line tool for validating API description document against backend implementation of the API.
 - [HttpRunner](https://github.com/httprunner/httprunner) - is a simple & elegant, yet powerful HTTP(S) testing framework.
 - [hypothesis-graphql](https://github.com/Stranger6667/hypothesis-graphql) - Hypothesis strategies for GraphQL schemas, queries and data.
+- [maily-client](https://github.com/stormsia/maily) - Async/sync Python SDK and REST gateway for disposable email and automated OTP/link verification in test suites.
 - [Schemathesis](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
 - [playback](https://github.com/Optibus/playback) - A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).
 - [DriftWire](https://github.com/Haswell119/driftwire) - Detect API contract drift: validate a live API against its OpenAPI spec, or diff two spec versions for breaking changes.
