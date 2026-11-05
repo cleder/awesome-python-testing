@@ -259,6 +259,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Tools
 
+- [Bite](https://github.com/connabyss/bite) - Takes each recent fix commit back out of a copy of the project, runs the tests, and reports which fixes no test noticed. Free check, no API key; works with pytest and other runners.
 - [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
 - [csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) - A Python CLI that checks CSV test datasets and pipeline inputs for missing columns, empty cells, and duplicate rows, with configurable rules and CI exit codes.
 - [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test.
