@@ -14,11 +14,11 @@ repos:
     hooks:
       - id: md-dead-link-check
   - repo: https://github.com/crate-ci/typos
-    rev: v1.51.1
+    rev: v1.52.0
     hooks:
       - id: typos
   - repo: https://github.com/rvben/rumdl-pre-commit
-    rev: v0.3.0
+    rev: v0.3.2
     hooks:
       - id: rumdl-fmt
 ...
