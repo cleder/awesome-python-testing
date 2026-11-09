@@ -299,6 +299,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [HMNextAuto](https://github.com/ziguiway/hmnextauto) - Python-based UI automation framework for HarmonyOS NEXT. API compatible with uiautomator2, supports XPath, image recognition, performance monitoring and notification management.
 - [Lost Pixel](https://github.com/lost-pixel/lost-pixel) - is an open source visual regression testing tool. Run visual regression tests on your Storybook and Ladle stories and on your application pages.
 - [LuluTest](https://github.com/erik-whiting/LuluTest) - is an open source browser automation framework using Python and Selenium.
+- [mendwright](https://github.com/saadbuilt/mendwright) - Self-healing selectors for Playwright and Selenium, with a pytest plugin. Repairs a broken selector from a saved fingerprint of the element before asking a model, checks the repair on the live page, and `mendwright fix` writes it back into the test code.
 - [Optics](https://github.com/mozarkai/optics-framework) - Keyword-driven UI testing for Android, iOS, TV and web apps through Appium, Selenium or Playwright, from CSV/YAML suites or pytest. Element lookup falls back from XPath to text, OCR and image matching.
 - [pomcorn](https://github.com/saritasa-nest/pomcorn) - is an open source Python package that contains base classes to create systems based on Selenium framework and Page Object Model pattern
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - is a cross-platform GUI automation Python module for human beings.
