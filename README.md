@@ -13,6 +13,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [LLM & MCP Testing](#llm--mcp-testing)
 - [Load Testing](#load-testing)
 - [Memory Management](#memory-management)
+- [Migrations](#migrations)
 - [Mock and Stub](#mock-and-stub)
 - [Mutation Testing](#mutation-testing)
 - [Object Factories](#object-factories)
@@ -106,6 +107,12 @@ Collection of awesome Python resources for testing and generating test data.
 - [Pympler](https://github.com/pympler/pympler) - is a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [tracemalloc](https://docs.python.org/3/library/tracemalloc.html) - is a debug tool to trace memory blocks allocated by Python.
 
+## Migrations
+
+- [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order and best practices.
+- [pytest-alembic](https://github.com/schireson/pytest-alembic) - Pytest plugin to test alembic migrations (with default tests) and which enables you to write tests specific to your migrations.
+- [pytest-mrt](https://github.com/croc100/pytest-mrt) - Catch database migration rollback failures before they reach production. It seeds real rows before each migration, rolls back, and checks nothing was lost. It also statically scans migration files for 45 known dangerous patterns across both Alembic and Django migrations.
+
 ## Mock and Stub
 
 - [Aioresponses](https://github.com/pnuckowski/aioresponses) - is a helper for mock/fake web requests in python aiohttp package.
@@ -140,7 +147,6 @@ Collection of awesome Python resources for testing and generating test data.
 - [Mutatest](https://github.com/EvanKepner/mutatest) - Python mutation testing.
 - [Mutmut](https://github.com/boxed/mutmut) - is a mutation testing system for Python, with a strong focus on ease of use.
 - [MutPy](https://github.com/mutpy/mutpy) - MutPy is a mutation testing tool for Python 3.x source code
-- [Receipts](https://github.com/syntaxixr/receipts) - Reruns every test a change adds or edits with the changed source reverted to the base branch, and reports whether each test fails without the change or passes both ways. Runs pytest, vitest and jest, and ships as a GitHub Action, a CLI and a Claude Code plugin.
 - [xmutant.py](https://github.com/vrthra/xmutant.py) - Python 3.6 bytecode based mutation analysis framework
 
 ## Object Factories
