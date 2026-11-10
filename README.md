@@ -311,6 +311,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
 - [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 - [squape](https://github.com/CyberAlpaca/squish-api-python-extension) - is a package that extends Squish API providing convenience tools for everyday automated test cases development.
+- [waitless](https://github.com/godhiraj-code/waitless) - Wraps a Selenium WebDriver so lookups and clicks wait for the DOM and network to settle, replacing explicit waits and sleeps.
 
 ## Resources
 
