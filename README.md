@@ -82,6 +82,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## LLM & MCP Testing
 
+- [agentest](https://github.com/srpadmanabhuni/agentest) - Offline, deterministic agentic evals for AI agents: 165 tests of OpenTelemetry GenAI traces, A2A AgentCards and MCP tool lists, with no LLM judge.
 - [agent-convergence-scorer](https://github.com/hermes-labs-ai/agent-convergence-scorer) - A CLI and Python library that scores how lexically similar N agent or LLM outputs are: exact-match rate, Jaccard token overlap, divergence point, and a composite convergence score over any list of runs. An eval primitive for measuring reproducibility and fan-out collapse. Zero deps.
 - [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
 - [mcpscore](https://github.com/mcp-box/mcpscore) - Audits a running MCP server and scores it 0-100 for protocol conformance, tool and schema quality, and security posture, with a suggested fix for every failed check. Deterministic, runs from the CLI or as a GitHub Action with SARIF output. MIT.
