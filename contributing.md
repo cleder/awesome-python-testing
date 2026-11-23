@@ -37,7 +37,9 @@ If a project that is in the list is deleted, archived, or no longer maintained, 
 ## How to submit
 
 1. Add **one** entry per pull request. If you want to add more entries, open more pull requests.
+
 2. Put the entry in the correct section, in alphabetical order.
+
 3. Use this format:
 
    ```markdown
@@ -45,10 +47,13 @@ If a project that is in the list is deleted, archived, or no longer maintained, 
    ```
 
 4. Link to the source repository or to the official documentation, not to a landing page.
+
 5. Write a description that is factual. Do not use marketing language such as
    "blazing fast", "revolutionary", or "AI-powered".
+
 6. Complete the pull request template. Give the link to the project, the license, and the section.
    If you are the author or maintainer of the project, say so.
+
 7. Make sure that the checks pass (dead links, Markdown lint, and spelling).
    You can run them on your computer with [pre-commit](https://pre-commit.com/): `pre-commit run --all-files`.
 
