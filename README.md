@@ -178,6 +178,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Rest API Testing
 
+- [api-shakedown](https://github.com/anzar-ahsan-commits/api-shakedown) - Give it an OpenAPI spec. Get back a ready-to-run test harness: WireMock stubs, contract tests, robustness probes, and chaos scenarios, written by a team of LLM agents that review each other's work.
 - [behave-restful](https://github.com/behave-restful/behave-restful) - BDD Framework to Test REST Services and APIs.
 - [cherrybomb](https://github.com/blst-security/cherrybomb) - CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [Dredd](https://github.com/apiaryio/dredd) - is a language-agnostic command-line tool for validating API description document against backend implementation of the API.
