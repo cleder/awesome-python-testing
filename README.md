@@ -213,6 +213,7 @@ Collection of awesome Python resources for testing and generating test data.
 - [pytest-deltatest](https://github.com/deltatest-org/pytest-deltatest) - Run only the tests affected by your code changes using SQLite-based coverage mappings, optimized for local pre-commit workflows.
 - [pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run only tests from modified test files, or run tests from modified test files first, followed by all unmodified tests
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continuous test runner when used with pytest-watch.
+- [pytest-tia](https://github.com/breadMSA/pytest-tia) - Run only the tests affected by a change, using function-level coverage maps that also track non-Python file dependencies.
 - [Awesome pytest speedup](https://github.com/zupo/awesome-pytest-speedup) - A checklist of best practices to speed up your pytest suite.
 
 ## Static Checks
